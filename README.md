@@ -1,6 +1,10 @@
 # COVID-19 Age-Based Stats
 Processed version of the [https://osf.io/7tnfh/](https://osf.io/7tnfh/) dataset which shows the cumulative number of COVID-19 cases and deaths by age as of the most recent dates in the OSF dataset.
 
+NOTE: this data processing program sets UK deaths for age 0-5 to zero because the number is obviously wrong
+in the original dataset. It lists nearly 16k deaths where other, larger countries are a few hundred at most.
+Most likely all the "unknown age" deaths got put in age category 0-5.
+
 # Output Data
 The processed data is stored on this repo:
 
@@ -21,7 +25,7 @@ To compile and run the data processing program and regenerate the output data:
 # Sample Output
 Country|Region|Date|Age|Cases|Deaths
 -------|------|----|---|-----|------
-World|All|2020.06.21|0|1572881|18027
+World|All|2020.06.21|0|1572881|2198
 ||||5|2173475|2596
 ||||10|3213838|2233
 ||||15|4887325|3609

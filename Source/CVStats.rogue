@@ -73,6 +73,13 @@ class CVStats
         endIf
       endForEach
 
+      # UK stats for age 0-5 are obviously wrong, listing nearly 16k deaths where other
+      # larger countries are a few hundred at most. Most likely all the "unknown age"
+      # deaths got put in category 0-5. Zeroing out.
+      local uk = area_stats[ "United Kingdom,All" ]
+      require uk
+      uk.deaths[0] = 0
+
       File.create_folder( "Data" )
       write_csv( "Data/COVID-cases-and-deaths-by-age.csv", &all )
       write_csv( "Data/COVID-cases-and-deaths-by-age-and-country.csv" )
