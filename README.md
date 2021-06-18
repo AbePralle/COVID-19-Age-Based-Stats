@@ -4,6 +4,8 @@ Processed version of the [https://osf.io/7tnfh/](https://osf.io/7tnfh/) dataset 
 # Output Data
 The processed data is stored on this repo:
 
+- [COVID-19 Cases and Deaths by Age](Data/COVID-cases-and-deaths-by-age.csv) (CSV)
+- [COVID-19 Cases and Deaths by Age](Data/COVID-cases-and-deaths-by-age.md) (Markdown)
 - [COVID-19 Cases and Deaths by Age and Country](Data/COVID-cases-and-deaths-by-age-and-country.csv) (CSV)
 - [COVID-19 Cases and Deaths by Age and Country](Data/COVID-cases-and-deaths-by-age-and-country.md) (Markdown)
 - [COVID-19 Cases and Deaths by Age and Region](Data/COVID-cases-and-deaths-by-age-and-region.csv) (CSV)
@@ -19,25 +21,24 @@ To compile and run the data processing program and regenerate the output data:
 # Sample Output
 Country|Region|Date|Age|Cases|Deaths
 -------|------|----|---|-----|------
-USA|All|2021.06.05|0|559241|115
-||||5|721345|44
-||||10|1064843|63
-||||15|1710880|228
-||||20|2562311|711
-||||25|3030192|1594
-||||30|2482282|2568
-||||35|2169932|4176
-||||40|2029837|6406
-||||45|2218440|11206
-||||50|2147740|18259
-||||55|2034211|30198
-||||60|1661719|43791
-||||65|1260333|58206
-||||70|949950|72361
-||||75|675685|79822
-||||80|487348|81423
-||||85|293898|64533
-||||90|346305|94429
-||||95|49967|16355
-||||100|393|160
-
+World|All|2020.06.21|0|1572881|18027
+||||5|2173475|2596
+||||10|3213838|2233
+||||15|4887325|3609
+||||20|7308793|7415
+||||25|8840219|13852
+||||30|8317237|25522
+||||35|7656992|43631
+||||40|7210590|65529
+||||45|7246402|95749
+||||50|6844390|135438
+||||55|6119221|191269
+||||60|4800887|249711
+||||65|3669025|293539
+||||70|2802263|327299
+||||75|2039962|351227
+||||80|1686868|372933
+||||85|1124796|307005
+||||90|831692|260273
+||||95|222274|95697
+||||100|26054|14798

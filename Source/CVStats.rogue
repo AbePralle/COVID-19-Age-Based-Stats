@@ -41,16 +41,25 @@ class CVStats
 
       process( command//args.first )
 
+    method collect_all->AreaStats
+      local all_stats = AreaStats( "World,All" )
+      forEach (stats in area_stats)
+        if (stats.region == "All" and stats.date)
+          all_stats.date = stats.date
+          forEach (age in 0..20)
+            all_stats.cases[age] += stats.cases[age]
+            all_stats.deaths[age] += stats.deaths[age]
+          endForEach
+        endIf
+      endForEach
+      return all_stats
+
     method process( filepath:String )
-      local header = ""
       local area  : String
       local stats : AreaStats
       println "Processing..."
       forEach (line at index in LineReader(File(filepath),StringEncoding.EXTENDED_ASCII))
-        if (index == 3)
-          header = line
-          #trace header
-        elseIf (index > 3)
+        if (index > 3)
           if (not area or not line.begins_with(area))
             local i = line.locate_nth(',',2)
             if (i)
@@ -65,28 +74,41 @@ class CVStats
       endForEach
 
       File.create_folder( "Data" )
+      write_csv( "Data/COVID-cases-and-deaths-by-age.csv", &all )
       write_csv( "Data/COVID-cases-and-deaths-by-age-and-country.csv" )
       write_csv( "Data/COVID-cases-and-deaths-by-age-and-region.csv", &by_region )
+      write_md( "Data/COVID-cases-and-deaths-by-age.md", &all )
       write_md( "Data/COVID-cases-and-deaths-by-age-and-country.md" )
       write_md( "Data/COVID-cases-and-deaths-by-age-and-region.md", &by_region )
 
-    method write_csv( filepath:String, &by_region )
+    method write_csv( filepath:String, &by_region, &all )
       println "Writing $" (filepath)
       local writer = File.print_writer( filepath )
       writer.println @|Country,Region,Date,Age,Cases,Deaths
-      forEach (stat in area_stats)
-        stat.print_csv( writer, &=by_region )
-      endForEach
+
+      if (all)
+        collect_all.print_csv( writer )
+      else
+        forEach (stats in area_stats)
+          stats.print_csv( writer, &=by_region )
+        endForEach
+      endIf
+
       writer.close
 
-    method write_md( filepath:String, &by_region )
+    method write_md( filepath:String, &by_region, &all )
       println "Writing $" (filepath)
       local writer = File.print_writer( filepath )
       writer.println @|Country|Region|Date|Age|Cases|Deaths
                       |-------|------|----|---|-----|------
-      forEach (stat in area_stats)
-        stat.print_md( writer, &=by_region )
-      endForEach
+      if (all)
+        collect_all.print_md( writer )
+      else
+        forEach (stats in area_stats)
+          stats.print_md( writer, &=by_region )
+        endForEach
+      endIf
+
       writer.close
 endClass
 
@@ -148,7 +170,7 @@ class AreaStats
     method print_csv( writer:PrintWriter, &by_region )
       # Country,Region,Date,Age,Cases,Deaths
       if (not by_region and region != "All") return
-      local date = which{ date:date.split('.').[reverse].join('.') || "N/A" }
+      local date = reverse_date
 
       forEach (age in 0..20)
         writer.print( country ).print(',')
@@ -162,7 +184,7 @@ class AreaStats
     method print_md( writer:PrintWriter, &by_region )
       # Country | Region | Date | Age | Cases | Deaths
       if (not by_region and region != "All") return
-      local date = which{ date:date.split('.').[reverse].join('.') || "N/A" }
+      local date = reverse_date
 
       local first = true
       forEach (age in 0..20)
@@ -178,5 +200,8 @@ class AreaStats
         writer.print( cases[age] ).print('|')
         writer.print( deaths[age] ).println
       endForEach
+
+    method reverse_date->String
+      return which{ date:date.split('.').[reverse].join('.') || "N/A" }
 endClass
 
