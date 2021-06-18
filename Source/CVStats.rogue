@@ -107,7 +107,7 @@ class CVStats
       println "Writing $" (filepath)
       local writer = File.print_writer( filepath )
       writer.println @|Country|Region|Date|Age|Cases|Deaths
-                      |-------|------|----|---|-----|------
+                      |-------|------|----|--:|----:|-----:
       if (all)
         collect_all.print_md( writer )
       else

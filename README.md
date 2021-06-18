@@ -24,7 +24,7 @@ To compile and run the data processing program and regenerate the output data:
 
 # Sample Output
 Country|Region|Date|Age|Cases|Deaths
--------|------|----|---|-----|------
+-------|------|----|--:|----:|-----:
 World|All|2020.06.21|0|1572881|2198
 ||||5|2173475|2596
 ||||10|3213838|2233
