@@ -1,0 +1,2395 @@
+Country,Region,Date,Age,Cases,Deaths
+Afghanistan,All,2020.12.26,0,57,0
+Afghanistan,All,2020.12.26,5,201,0
+Afghanistan,All,2020.12.26,10,696,3
+Afghanistan,All,2020.12.26,15,2154,8
+Afghanistan,All,2020.12.26,20,5134,18
+Afghanistan,All,2020.12.26,25,7005,30
+Afghanistan,All,2020.12.26,30,6083,40
+Afghanistan,All,2020.12.26,35,5017,61
+Afghanistan,All,2020.12.26,40,4459,97
+Afghanistan,All,2020.12.26,45,3950,135
+Afghanistan,All,2020.12.26,50,3476,174
+Afghanistan,All,2020.12.26,55,3148,228
+Afghanistan,All,2020.12.26,60,2737,278
+Afghanistan,All,2020.12.26,65,2008,251
+Afghanistan,All,2020.12.26,70,1322,178
+Afghanistan,All,2020.12.26,75,752,110
+Afghanistan,All,2020.12.26,80,443,74
+Afghanistan,All,2020.12.26,85,225,42
+Afghanistan,All,2020.12.26,90,87,18
+Afghanistan,All,2020.12.26,95,21,5
+Afghanistan,All,2020.12.26,100,2,0
+Albania,All,2020.12.02,0,354,0
+Albania,All,2020.12.02,5,440,0
+Albania,All,2020.12.02,10,558,0
+Albania,All,2020.12.02,15,1030,0
+Albania,All,2020.12.02,20,1937,2
+Albania,All,2020.12.02,25,3225,5
+Albania,All,2020.12.02,30,3992,3
+Albania,All,2020.12.02,35,3554,4
+Albania,All,2020.12.02,40,3468,16
+Albania,All,2020.12.02,45,3681,33
+Albania,All,2020.12.02,50,3553,50
+Albania,All,2020.12.02,55,3596,83
+Albania,All,2020.12.02,60,3207,116
+Albania,All,2020.12.02,65,2353,118
+Albania,All,2020.12.02,70,1666,106
+Albania,All,2020.12.02,75,1342,106
+Albania,All,2020.12.02,80,949,90
+Albania,All,2020.12.02,85,536,61
+Albania,All,2020.12.02,90,223,30
+Albania,All,2020.12.02,95,43,7
+Albania,All,2020.12.02,100,4,0
+Algeria,All,2020.10.23,0,306,0
+Algeria,All,2020.10.23,5,231,0
+Algeria,All,2020.10.23,10,291,0
+Algeria,All,2020.10.23,15,566,0
+Algeria,All,2020.10.23,20,1446,0
+Algeria,All,2020.10.23,25,3075,2
+Algeria,All,2020.10.23,30,4452,5
+Algeria,All,2020.10.23,35,5197,11
+Algeria,All,2020.10.23,40,5255,20
+Algeria,All,2020.10.23,45,5102,33
+Algeria,All,2020.10.23,50,5147,57
+Algeria,All,2020.10.23,55,4889,80
+Algeria,All,2020.10.23,60,4187,89
+Algeria,All,2020.10.23,65,3747,98
+Algeria,All,2020.10.23,70,2766,84
+Algeria,All,2020.10.23,75,2573,88
+Algeria,All,2020.10.23,80,2552,97
+Algeria,All,2020.10.23,85,2127,90
+Algeria,All,2020.10.23,90,1188,57
+Algeria,All,2020.10.23,95,426,23
+Algeria,All,2020.10.23,100,97,6
+Angola,All,2020.06.15,0,3,0
+Angola,All,2020.06.15,5,6,0
+Angola,All,2020.06.15,10,4,0
+Angola,All,2020.06.15,15,7,0
+Angola,All,2020.06.15,20,24,0
+Angola,All,2020.06.15,25,29,0
+Angola,All,2020.06.15,30,18,0
+Angola,All,2020.06.15,35,13,0
+Angola,All,2020.06.15,40,9,0
+Angola,All,2020.06.15,45,6,0
+Angola,All,2020.06.15,50,4,0
+Angola,All,2020.06.15,55,3,0
+Angola,All,2020.06.15,60,2,0
+Angola,All,2020.06.15,65,1,0
+Angola,All,2020.06.15,70,1,0
+Angola,All,2020.06.15,75,1,0
+Angola,All,2020.06.15,80,1,0
+Angola,All,2020.06.15,85,1,0
+Angola,All,2020.06.15,90,0,0
+Angola,All,2020.06.15,95,0,0
+Angola,All,2020.06.15,100,0,0
+Argentina,All,2021.06.13,0,42949,85
+Argentina,All,2021.06.13,5,51029,22
+Argentina,All,2021.06.13,10,88075,17
+Argentina,All,2021.06.13,15,212485,91
+Argentina,All,2021.06.13,20,373893,181
+Argentina,All,2021.06.13,25,480107,376
+Argentina,All,2021.06.13,30,489300,581
+Argentina,All,2021.06.13,35,451411,985
+Argentina,All,2021.06.13,40,434474,1674
+Argentina,All,2021.06.13,45,360221,2610
+Argentina,All,2021.06.13,50,301245,3932
+Argentina,All,2021.06.13,55,250443,5847
+Argentina,All,2021.06.13,60,184980,8388
+Argentina,All,2021.06.13,65,139080,10955
+Argentina,All,2021.06.13,70,97665,11659
+Argentina,All,2021.06.13,75,66910,11717
+Argentina,All,2021.06.13,80,45119,10211
+Argentina,All,2021.06.13,85,30312,8623
+Argentina,All,2021.06.13,90,16855,5265
+Argentina,All,2021.06.13,95,5159,1780
+Argentina,All,2021.06.13,100,2022,314
+Australia,All,2021.06.14,0,789,0
+Australia,All,2021.06.14,5,856,0
+Australia,All,2021.06.14,10,1022,0
+Australia,All,2021.06.14,15,1505,0
+Australia,All,2021.06.14,20,2895,0
+Australia,All,2021.06.14,25,3770,0
+Australia,All,2021.06.14,30,3087,0
+Australia,All,2021.06.14,35,2336,1
+Australia,All,2021.06.14,40,1908,0
+Australia,All,2021.06.14,45,1976,1
+Australia,All,2021.06.14,50,1818,5
+Australia,All,2021.06.14,55,1691,9
+Australia,All,2021.06.14,60,1397,13
+Australia,All,2021.06.14,65,1089,24
+Australia,All,2021.06.14,70,920,57
+Australia,All,2021.06.14,75,729,100
+Australia,All,2021.06.14,80,672,167
+Australia,All,2021.06.14,85,607,211
+Australia,All,2021.06.14,90,486,190
+Australia,All,2021.06.14,95,235,98
+Australia,All,2021.06.14,100,60,26
+Austria,All,2021.06.14,0,8293,0
+Austria,All,2021.06.14,5,18355,0
+Austria,All,2021.06.14,10,32302,1
+Austria,All,2021.06.14,15,42587,2
+Austria,All,2021.06.14,20,50431,4
+Austria,All,2021.06.14,25,53476,5
+Austria,All,2021.06.14,30,50439,7
+Austria,All,2021.06.14,35,50103,11
+Austria,All,2021.06.14,40,47473,18
+Austria,All,2021.06.14,45,53044,46
+Austria,All,2021.06.14,50,58455,113
+Austria,All,2021.06.14,55,50327,228
+Austria,All,2021.06.14,60,34417,379
+Austria,All,2021.06.14,65,22636,579
+Austria,All,2021.06.14,70,18118,921
+Austria,All,2021.06.14,75,18699,1674
+Austria,All,2021.06.14,80,14452,1870
+Austria,All,2021.06.14,85,11081,1988
+Austria,All,2021.06.14,90,7120,1669
+Austria,All,2021.06.14,95,2626,800
+Austria,All,2021.06.14,100,201,77
+Bangladesh,All,2021.04.29,0,9750,40
+Bangladesh,All,2021.04.29,5,12179,52
+Bangladesh,All,2021.04.29,10,18092,69
+Bangladesh,All,2021.04.29,15,37109,100
+Bangladesh,All,2021.04.29,20,82769,151
+Bangladesh,All,2021.04.29,25,125941,235
+Bangladesh,All,2021.04.29,30,115930,373
+Bangladesh,All,2021.04.29,35,88999,571
+Bangladesh,All,2021.04.29,40,71568,824
+Bangladesh,All,2021.04.29,45,59253,1157
+Bangladesh,All,2021.04.29,50,49950,1629
+Bangladesh,All,2021.04.29,55,34743,1745
+Bangladesh,All,2021.04.29,60,18616,1277
+Bangladesh,All,2021.04.29,65,9406,795
+Bangladesh,All,2021.04.29,70,7207,691
+Bangladesh,All,2021.04.29,75,5655,582
+Bangladesh,All,2021.04.29,80,4177,450
+Bangladesh,All,2021.04.29,85,2920,327
+Bangladesh,All,2021.04.29,90,1709,198
+Bangladesh,All,2021.04.29,95,755,91
+Bangladesh,All,2021.04.29,100,216,27
+Belgium,All,2021.06.14,0,15649,0
+Belgium,All,2021.06.14,5,32255,1
+Belgium,All,2021.06.14,10,55674,1
+Belgium,All,2021.06.14,15,73609,3
+Belgium,All,2021.06.14,20,84814,5
+Belgium,All,2021.06.14,25,90119,11
+Belgium,All,2021.06.14,30,85309,19
+Belgium,All,2021.06.14,35,83130,34
+Belgium,All,2021.06.14,40,81542,58
+Belgium,All,2021.06.14,45,84804,107
+Belgium,All,2021.06.14,50,82362,209
+Belgium,All,2021.06.14,55,70997,433
+Belgium,All,2021.06.14,60,51662,843
+Belgium,All,2021.06.14,65,37823,1442
+Belgium,All,2021.06.14,70,32447,1921
+Belgium,All,2021.06.14,75,25672,1667
+Belgium,All,2021.06.14,80,28914,2162
+Belgium,All,2021.06.14,85,28322,3552
+Belgium,All,2021.06.14,90,18269,5495
+Belgium,All,2021.06.14,95,6902,5556
+Belgium,All,2021.06.14,100,765,1533
+Benin,All,2020.05.22,0,0,0
+Benin,All,2020.05.22,5,1,0
+Benin,All,2020.05.22,10,3,0
+Benin,All,2020.05.22,15,7,0
+Benin,All,2020.05.22,20,14,0
+Benin,All,2020.05.22,25,22,0
+Benin,All,2020.05.22,30,29,0
+Benin,All,2020.05.22,35,31,0
+Benin,All,2020.05.22,40,27,0
+Benin,All,2020.05.22,45,20,0
+Benin,All,2020.05.22,50,13,0
+Benin,All,2020.05.22,55,7,0
+Benin,All,2020.05.22,60,3,0
+Benin,All,2020.05.22,65,1,0
+Benin,All,2020.05.22,70,1,0
+Benin,All,2020.05.22,75,0,0
+Benin,All,2020.05.22,80,0,0
+Benin,All,2020.05.22,85,0,0
+Benin,All,2020.05.22,90,0,0
+Benin,All,2020.05.22,95,0,0
+Benin,All,2020.05.22,100,0,0
+Bermuda,All,2021.05.04,0,19,0
+Bermuda,All,2021.05.04,5,37,0
+Bermuda,All,2021.05.04,10,70,0
+Bermuda,All,2021.05.04,15,119,0
+Bermuda,All,2021.05.04,20,181,0
+Bermuda,All,2021.05.04,25,230,0
+Bermuda,All,2021.05.04,30,245,0
+Bermuda,All,2021.05.04,35,232,0
+Bermuda,All,2021.05.04,40,206,0
+Bermuda,All,2021.05.04,45,190,0
+Bermuda,All,2021.05.04,50,184,0
+Bermuda,All,2021.05.04,55,175,0
+Bermuda,All,2021.05.04,60,155,0
+Bermuda,All,2021.05.04,65,107,0
+Bermuda,All,2021.05.04,70,58,0
+Bermuda,All,2021.05.04,75,35,0
+Bermuda,All,2021.05.04,80,26,0
+Bermuda,All,2021.05.04,85,19,0
+Bermuda,All,2021.05.04,90,14,0
+Bermuda,All,2021.05.04,95,10,0
+Bermuda,All,2021.05.04,100,8,0
+Bolivia,All,2020.04.22,0,11,1
+Bolivia,All,2020.04.22,5,17,0
+Bolivia,All,2020.04.22,10,15,0
+Bolivia,All,2020.04.22,15,25,0
+Bolivia,All,2020.04.22,20,40,0
+Bolivia,All,2020.04.22,25,55,0
+Bolivia,All,2020.04.22,30,64,0
+Bolivia,All,2020.04.22,35,64,0
+Bolivia,All,2020.04.22,40,53,2
+Bolivia,All,2020.04.22,45,47,3
+Bolivia,All,2020.04.22,50,47,3
+Bolivia,All,2020.04.22,55,39,3
+Bolivia,All,2020.04.22,60,27,2
+Bolivia,All,2020.04.22,65,21,2
+Bolivia,All,2020.04.22,70,17,2
+Bolivia,All,2020.04.22,75,14,2
+Bolivia,All,2020.04.22,80,11,2
+Bolivia,All,2020.04.22,85,10,2
+Bolivia,All,2020.04.22,90,7,2
+Bolivia,All,2020.04.22,95,4,1
+Bolivia,All,2020.04.22,100,1,0
+Botswana,All,2020.06.17,0,0,0
+Botswana,All,2020.06.17,5,0,0
+Botswana,All,2020.06.17,10,0,0
+Botswana,All,2020.06.17,15,0,0
+Botswana,All,2020.06.17,20,2,0
+Botswana,All,2020.06.17,25,4,0
+Botswana,All,2020.06.17,30,8,0
+Botswana,All,2020.06.17,35,12,0
+Botswana,All,2020.06.17,40,13,0
+Botswana,All,2020.06.17,45,9,0
+Botswana,All,2020.06.17,50,5,0
+Botswana,All,2020.06.17,55,3,0
+Botswana,All,2020.06.17,60,0,0
+Botswana,All,2020.06.17,65,0,0
+Botswana,All,2020.06.17,70,0,0
+Botswana,All,2020.06.17,75,0,0
+Botswana,All,2020.06.17,80,0,0
+Botswana,All,2020.06.17,85,0,0
+Botswana,All,2020.06.17,90,0,0
+Botswana,All,2020.06.17,95,0,0
+Botswana,All,2020.06.17,100,0,0
+Brazil,All,2021.06.07,0,0,239
+Brazil,All,2021.06.07,5,0,479
+Brazil,All,2021.06.07,10,0,899
+Brazil,All,2021.06.07,15,0,1422
+Brazil,All,2021.06.07,20,0,2019
+Brazil,All,2021.06.07,25,0,3070
+Brazil,All,2021.06.07,30,0,6105
+Brazil,All,2021.06.07,35,0,11610
+Brazil,All,2021.06.07,40,0,17078
+Brazil,All,2021.06.07,45,0,21516
+Brazil,All,2021.06.07,50,0,29119
+Brazil,All,2021.06.07,55,0,41185
+Brazil,All,2021.06.07,60,0,54271
+Brazil,All,2021.06.07,65,0,57915
+Brazil,All,2021.06.07,70,0,55682
+Brazil,All,2021.06.07,75,0,59084
+Brazil,All,2021.06.07,80,0,55639
+Brazil,All,2021.06.07,85,0,25551
+Brazil,All,2021.06.07,90,0,14251
+Brazil,All,2021.06.07,95,0,11512
+Brazil,All,2021.06.07,100,0,1491
+Bulgaria,All,2021.03.29,0,725,0
+Bulgaria,All,2021.03.29,5,1622,0
+Bulgaria,All,2021.03.29,10,3590,0
+Bulgaria,All,2021.03.29,15,5892,0
+Bulgaria,All,2021.03.29,20,9814,0
+Bulgaria,All,2021.03.29,25,18078,0
+Bulgaria,All,2021.03.29,30,25419,0
+Bulgaria,All,2021.03.29,35,26057,0
+Bulgaria,All,2021.03.29,40,30347,0
+Bulgaria,All,2021.03.29,45,32618,0
+Bulgaria,All,2021.03.29,50,32591,0
+Bulgaria,All,2021.03.29,55,33087,0
+Bulgaria,All,2021.03.29,60,31117,0
+Bulgaria,All,2021.03.29,65,27269,0
+Bulgaria,All,2021.03.29,70,22886,0
+Bulgaria,All,2021.03.29,75,14043,0
+Bulgaria,All,2021.03.29,80,8510,0
+Bulgaria,All,2021.03.29,85,3951,0
+Bulgaria,All,2021.03.29,90,976,0
+Bulgaria,All,2021.03.29,95,148,0
+Bulgaria,All,2021.03.29,100,6,0
+Burkina Faso,All,2020.06.30,0,1,0
+Burkina Faso,All,2020.06.30,5,3,0
+Burkina Faso,All,2020.06.30,10,9,0
+Burkina Faso,All,2020.06.30,15,36,0
+Burkina Faso,All,2020.06.30,20,71,1
+Burkina Faso,All,2020.06.30,25,96,1
+Burkina Faso,All,2020.06.30,30,89,0
+Burkina Faso,All,2020.06.30,35,83,1
+Burkina Faso,All,2020.06.30,40,77,1
+Burkina Faso,All,2020.06.30,45,77,3
+Burkina Faso,All,2020.06.30,50,72,4
+Burkina Faso,All,2020.06.30,55,60,5
+Burkina Faso,All,2020.06.30,60,44,4
+Burkina Faso,All,2020.06.30,65,34,4
+Burkina Faso,All,2020.06.30,70,28,5
+Burkina Faso,All,2020.06.30,75,24,6
+Burkina Faso,All,2020.06.30,80,18,5
+Burkina Faso,All,2020.06.30,85,10,4
+Burkina Faso,All,2020.06.30,90,4,2
+Burkina Faso,All,2020.06.30,95,1,0
+Burkina Faso,All,2020.06.30,100,0,0
+Burundi,All,N/A,0,0,0
+Burundi,All,N/A,5,0,0
+Burundi,All,N/A,10,0,0
+Burundi,All,N/A,15,0,0
+Burundi,All,N/A,20,0,0
+Burundi,All,N/A,25,0,0
+Burundi,All,N/A,30,0,0
+Burundi,All,N/A,35,0,0
+Burundi,All,N/A,40,0,0
+Burundi,All,N/A,45,0,0
+Burundi,All,N/A,50,0,0
+Burundi,All,N/A,55,0,0
+Burundi,All,N/A,60,0,0
+Burundi,All,N/A,65,0,0
+Burundi,All,N/A,70,0,0
+Burundi,All,N/A,75,0,0
+Burundi,All,N/A,80,0,0
+Burundi,All,N/A,85,0,0
+Burundi,All,N/A,90,0,0
+Burundi,All,N/A,95,0,0
+Burundi,All,N/A,100,0,0
+Cambodia,All,2021.03.25,0,26,0
+Cambodia,All,2021.03.25,5,17,0
+Cambodia,All,2021.03.25,10,29,0
+Cambodia,All,2021.03.25,15,84,0
+Cambodia,All,2021.03.25,20,283,0
+Cambodia,All,2021.03.25,25,504,0
+Cambodia,All,2021.03.25,30,368,0
+Cambodia,All,2021.03.25,35,241,0
+Cambodia,All,2021.03.25,40,129,0
+Cambodia,All,2021.03.25,45,70,0
+Cambodia,All,2021.03.25,50,59,0
+Cambodia,All,2021.03.25,55,44,0
+Cambodia,All,2021.03.25,60,48,0
+Cambodia,All,2021.03.25,65,35,0
+Cambodia,All,2021.03.25,70,15,0
+Cambodia,All,2021.03.25,75,13,0
+Cambodia,All,2021.03.25,80,3,0
+Cambodia,All,2021.03.25,85,0,0
+Cambodia,All,2021.03.25,90,0,0
+Cambodia,All,2021.03.25,95,0,0
+Cambodia,All,2021.03.25,100,0,0
+Cameroon,All,2020.04.16,0,49,0
+Cameroon,All,2020.04.16,5,4,0
+Cameroon,All,2020.04.16,10,10,0
+Cameroon,All,2020.04.16,15,15,0
+Cameroon,All,2020.04.16,20,50,0
+Cameroon,All,2020.04.16,25,95,0
+Cameroon,All,2020.04.16,30,111,0
+Cameroon,All,2020.04.16,35,113,0
+Cameroon,All,2020.04.16,40,100,1
+Cameroon,All,2020.04.16,45,86,2
+Cameroon,All,2020.04.16,50,74,0
+Cameroon,All,2020.04.16,55,53,1
+Cameroon,All,2020.04.16,60,33,1
+Cameroon,All,2020.04.16,65,23,1
+Cameroon,All,2020.04.16,70,17,1
+Cameroon,All,2020.04.16,75,13,2
+Cameroon,All,2020.04.16,80,10,2
+Cameroon,All,2020.04.16,85,5,2
+Cameroon,All,2020.04.16,90,1,0
+Cameroon,All,2020.04.16,95,0,0
+Cameroon,All,2020.04.16,100,0,0
+Canada,All,2020.09.22,0,1046,0
+Canada,All,2020.09.22,5,2114,0
+Canada,All,2020.09.22,10,4048,0
+Canada,All,2020.09.22,15,7245,1
+Canada,All,2020.09.22,20,11905,3
+Canada,All,2020.09.22,25,13202,5
+Canada,All,2020.09.22,30,11340,5
+Canada,All,2020.09.22,35,10328,9
+Canada,All,2020.09.22,40,10420,17
+Canada,All,2020.09.22,45,10847,33
+Canada,All,2020.09.22,50,10511,69
+Canada,All,2020.09.22,55,9865,150
+Canada,All,2020.09.22,60,7472,254
+Canada,All,2020.09.22,65,5619,411
+Canada,All,2020.09.22,70,4912,695
+Canada,All,2020.09.22,75,4354,974
+Canada,All,2020.09.22,80,4598,1337
+Canada,All,2020.09.22,85,5501,1826
+Canada,All,2020.09.22,90,5499,1961
+Canada,All,2020.09.22,95,3566,1347
+Canada,All,2020.09.22,100,205,81
+Central African Republic,All,2020.10.07,0,48,0
+Central African Republic,All,2020.10.07,5,65,0
+Central African Republic,All,2020.10.07,10,93,0
+Central African Republic,All,2020.10.07,15,172,0
+Central African Republic,All,2020.10.07,20,369,0
+Central African Republic,All,2020.10.07,25,638,0
+Central African Republic,All,2020.10.07,30,849,0
+Central African Republic,All,2020.10.07,35,817,0
+Central African Republic,All,2020.10.07,40,605,0
+Central African Republic,All,2020.10.07,45,441,0
+Central African Republic,All,2020.10.07,50,308,0
+Central African Republic,All,2020.10.07,55,189,0
+Central African Republic,All,2020.10.07,60,104,0
+Central African Republic,All,2020.10.07,65,59,0
+Central African Republic,All,2020.10.07,70,35,0
+Central African Republic,All,2020.10.07,75,25,0
+Central African Republic,All,2020.10.07,80,17,0
+Central African Republic,All,2020.10.07,85,8,0
+Central African Republic,All,2020.10.07,90,2,0
+Central African Republic,All,2020.10.07,95,0,0
+Central African Republic,All,2020.10.07,100,0,0
+Chad,All,2020.10.21,0,5,0
+Chad,All,2020.10.21,5,3,0
+Chad,All,2020.10.21,10,9,0
+Chad,All,2020.10.21,15,41,0
+Chad,All,2020.10.21,20,93,0
+Chad,All,2020.10.21,25,156,0
+Chad,All,2020.10.21,30,175,1
+Chad,All,2020.10.21,35,140,3
+Chad,All,2020.10.21,40,114,5
+Chad,All,2020.10.21,45,102,8
+Chad,All,2020.10.21,50,82,11
+Chad,All,2020.10.21,55,64,12
+Chad,All,2020.10.21,60,47,10
+Chad,All,2020.10.21,65,36,9
+Chad,All,2020.10.21,70,25,7
+Chad,All,2020.10.21,75,21,7
+Chad,All,2020.10.21,80,17,6
+Chad,All,2020.10.21,85,11,4
+Chad,All,2020.10.21,90,5,2
+Chad,All,2020.10.21,95,2,0
+Chad,All,2020.10.21,100,0,0
+Chile,All,2021.03.12,0,21113,18
+Chile,All,2021.03.12,5,21259,8
+Chile,All,2021.03.12,10,27191,15
+Chile,All,2021.03.12,15,45874,22
+Chile,All,2021.03.12,20,86745,38
+Chile,All,2021.03.12,25,119845,77
+Chile,All,2021.03.12,30,116659,139
+Chile,All,2021.03.12,35,94177,168
+Chile,All,2021.03.12,40,80074,275
+Chile,All,2021.03.12,45,80237,451
+Chile,All,2021.03.12,50,76986,776
+Chile,All,2021.03.12,55,71882,1330
+Chile,All,2021.03.12,60,53744,1999
+Chile,All,2021.03.12,65,36066,2453
+Chile,All,2021.03.12,70,26302,2918
+Chile,All,2021.03.12,75,19143,3163
+Chile,All,2021.03.12,80,12658,3049
+Chile,All,2021.03.12,85,7970,2597
+Chile,All,2021.03.12,90,4438,1520
+Chile,All,2021.03.12,95,1508,473
+Chile,All,2021.03.12,100,415,85
+China,All,2020.02.11,0,222,0
+China,All,2020.02.11,5,193,0
+China,All,2020.02.11,10,193,0
+China,All,2020.02.11,15,355,0
+China,All,2020.02.11,20,1068,2
+China,All,2020.02.11,25,2550,4
+China,All,2020.02.11,30,4179,8
+China,All,2020.02.11,35,3420,9
+China,All,2020.02.11,40,3644,12
+China,All,2020.02.11,45,4926,25
+China,All,2020.02.11,50,5323,51
+China,All,2020.02.11,55,4684,78
+China,All,2020.02.11,60,4237,117
+China,All,2020.02.11,65,4345,191
+China,All,2020.02.11,70,2541,173
+China,All,2020.02.11,75,1376,138
+China,All,2020.02.11,80,802,103
+China,All,2020.02.11,85,404,64
+China,All,2020.02.11,90,148,28
+China,All,2020.02.11,95,43,10
+China,All,2020.02.11,100,9,2
+Colombia,All,2021.06.07,0,63252,87
+Colombia,All,2021.06.07,5,71931,24
+Colombia,All,2021.06.07,10,103955,28
+Colombia,All,2021.06.07,15,177847,98
+Colombia,All,2021.06.07,20,373734,336
+Colombia,All,2021.06.07,25,491804,700
+Colombia,All,2021.06.07,30,478266,1078
+Colombia,All,2021.06.07,35,439351,1807
+Colombia,All,2021.06.07,40,372687,2750
+Colombia,All,2021.06.07,45,305626,3640
+Colombia,All,2021.06.07,50,303989,5767
+Colombia,All,2021.06.07,55,279775,8532
+Colombia,All,2021.06.07,60,212282,11647
+Colombia,All,2021.06.07,65,148251,13429
+Colombia,All,2021.06.07,70,105593,14348
+Colombia,All,2021.06.07,75,72467,13364
+Colombia,All,2021.06.07,80,51771,12089
+Colombia,All,2021.06.07,85,30675,8923
+Colombia,All,2021.06.07,90,13907,4576
+Colombia,All,2021.06.07,95,3556,1231
+Colombia,All,2021.06.07,100,675,202
+Costa Rica,All,2020.11.10,0,1122,0
+Costa Rica,All,2020.11.10,5,2033,0
+Costa Rica,All,2020.11.10,10,3539,0
+Costa Rica,All,2020.11.10,15,6167,0
+Costa Rica,All,2020.11.10,20,10764,18
+Costa Rica,All,2020.11.10,25,16038,34
+Costa Rica,All,2020.11.10,30,19621,15
+Costa Rica,All,2020.11.10,35,18326,24
+Costa Rica,All,2020.11.10,40,13972,103
+Costa Rica,All,2020.11.10,45,9147,124
+Costa Rica,All,2020.11.10,50,6369,77
+Costa Rica,All,2020.11.10,55,4206,70
+Costa Rica,All,2020.11.10,60,2444,91
+Costa Rica,All,2020.11.10,65,1405,123
+Costa Rica,All,2020.11.10,70,997,192
+Costa Rica,All,2020.11.10,75,717,210
+Costa Rica,All,2020.11.10,80,595,178
+Costa Rica,All,2020.11.10,85,491,126
+Costa Rica,All,2020.11.10,90,362,73
+Costa Rica,All,2020.11.10,95,187,29
+Costa Rica,All,2020.11.10,100,53,6
+Cuba,All,2020.05.24,0,0,0
+Cuba,All,2020.05.24,5,0,0
+Cuba,All,2020.05.24,10,0,0
+Cuba,All,2020.05.24,15,0,0
+Cuba,All,2020.05.24,20,0,0
+Cuba,All,2020.05.24,25,0,0
+Cuba,All,2020.05.24,30,0,0
+Cuba,All,2020.05.24,35,0,2
+Cuba,All,2020.05.24,40,0,0
+Cuba,All,2020.05.24,45,0,2
+Cuba,All,2020.05.24,50,0,4
+Cuba,All,2020.05.24,55,0,6
+Cuba,All,2020.05.24,60,0,6
+Cuba,All,2020.05.24,65,0,8
+Cuba,All,2020.05.24,70,0,9
+Cuba,All,2020.05.24,75,0,11
+Cuba,All,2020.05.24,80,0,14
+Cuba,All,2020.05.24,85,0,10
+Cuba,All,2020.05.24,90,0,3
+Cuba,All,2020.05.24,95,0,1
+Cuba,All,2020.05.24,100,0,1
+Czechia,All,2021.06.14,0,40076,2
+Czechia,All,2021.06.14,5,65427,1
+Czechia,All,2021.06.14,10,72050,1
+Czechia,All,2021.06.14,15,72227,2
+Czechia,All,2021.06.14,20,85433,3
+Czechia,All,2021.06.14,25,108825,19
+Czechia,All,2021.06.14,30,120345,39
+Czechia,All,2021.06.14,35,127434,67
+Czechia,All,2021.06.14,40,160277,131
+Czechia,All,2021.06.14,45,174823,247
+Czechia,All,2021.06.14,50,135756,393
+Czechia,All,2021.06.14,55,126517,766
+Czechia,All,2021.06.14,60,94735,1469
+Czechia,All,2021.06.14,65,77615,2925
+Czechia,All,2021.06.14,70,67525,4932
+Czechia,All,2021.06.14,75,49482,5952
+Czechia,All,2021.06.14,80,31217,5348
+Czechia,All,2021.06.14,85,21417,4694
+Czechia,All,2021.06.14,90,10738,2562
+Czechia,All,2021.06.14,95,2552,598
+Czechia,All,2021.06.14,100,234,46
+Denmark,All,2021.06.15,0,8307,0
+Denmark,All,2021.06.15,5,13222,0
+Denmark,All,2021.06.15,10,21290,0
+Denmark,All,2021.06.15,15,26472,0
+Denmark,All,2021.06.15,20,29570,0
+Denmark,All,2021.06.15,25,27711,0
+Denmark,All,2021.06.15,30,21733,2
+Denmark,All,2021.06.15,35,18489,4
+Denmark,All,2021.06.15,40,20356,3
+Denmark,All,2021.06.15,45,22039,6
+Denmark,All,2021.06.15,50,22075,22
+Denmark,All,2021.06.15,55,18020,43
+Denmark,All,2021.06.15,60,12411,75
+Denmark,All,2021.06.15,65,8594,136
+Denmark,All,2021.06.15,70,7033,275
+Denmark,All,2021.06.15,75,5079,399
+Denmark,All,2021.06.15,80,3637,499
+Denmark,All,2021.06.15,85,2409,492
+Denmark,All,2021.06.15,90,1334,364
+Denmark,All,2021.06.15,95,467,164
+Denmark,All,2021.06.15,100,76,34
+Dominican Republic,All,2020.06.15,0,429,8
+Dominican Republic,All,2020.06.15,5,465,0
+Dominican Republic,All,2020.06.15,10,444,1
+Dominican Republic,All,2020.06.15,15,693,2
+Dominican Republic,All,2020.06.15,20,1650,7
+Dominican Republic,All,2020.06.15,25,2947,11
+Dominican Republic,All,2020.06.15,30,2947,15
+Dominican Republic,All,2020.06.15,35,2448,21
+Dominican Republic,All,2020.06.15,40,2214,25
+Dominican Republic,All,2020.06.15,45,2102,33
+Dominican Republic,All,2020.06.15,50,1895,48
+Dominican Republic,All,2020.06.15,55,1539,57
+Dominican Republic,All,2020.06.15,60,1113,57
+Dominican Republic,All,2020.06.15,65,760,53
+Dominican Republic,All,2020.06.15,70,524,47
+Dominican Republic,All,2020.06.15,75,397,44
+Dominican Republic,All,2020.06.15,80,358,47
+Dominican Republic,All,2020.06.15,85,299,45
+Dominican Republic,All,2020.06.15,90,224,38
+Dominican Republic,All,2020.06.15,95,146,28
+Dominican Republic,All,2020.06.15,100,82,18
+Ecuador,All,2020.07.31,0,483,54
+Ecuador,All,2020.07.31,5,567,14
+Ecuador,All,2020.07.31,10,937,12
+Ecuador,All,2020.07.31,15,1723,20
+Ecuador,All,2020.07.31,20,3950,38
+Ecuador,All,2020.07.31,25,8621,63
+Ecuador,All,2020.07.31,30,10131,125
+Ecuador,All,2020.07.31,35,8779,157
+Ecuador,All,2020.07.31,40,7672,313
+Ecuador,All,2020.07.31,45,6514,480
+Ecuador,All,2020.07.31,50,6071,700
+Ecuador,All,2020.07.31,55,5826,1041
+Ecuador,All,2020.07.31,60,4703,1400
+Ecuador,All,2020.07.31,65,3711,1573
+Ecuador,All,2020.07.31,70,2818,1464
+Ecuador,All,2020.07.31,75,1969,1204
+Ecuador,All,2020.07.31,80,1459,1003
+Ecuador,All,2020.07.31,85,878,620
+Ecuador,All,2020.07.31,90,341,243
+Ecuador,All,2020.07.31,95,97,73
+Ecuador,All,2020.07.31,100,26,18
+El Salvador,All,2021.06.14,0,416,0
+El Salvador,All,2021.06.14,5,639,0
+El Salvador,All,2021.06.14,10,1053,0
+El Salvador,All,2021.06.14,15,1960,0
+El Salvador,All,2021.06.14,20,4195,0
+El Salvador,All,2021.06.14,25,7262,0
+El Salvador,All,2021.06.14,30,9373,0
+El Salvador,All,2021.06.14,35,10124,0
+El Salvador,All,2021.06.14,40,9646,2
+El Salvador,All,2021.06.14,45,7952,4
+El Salvador,All,2021.06.14,50,6262,5
+El Salvador,All,2021.06.14,55,4938,6
+El Salvador,All,2021.06.14,60,3747,4
+El Salvador,All,2021.06.14,65,2830,4
+El Salvador,All,2021.06.14,70,1903,3
+El Salvador,All,2021.06.14,75,1353,2
+El Salvador,All,2021.06.14,80,909,1
+El Salvador,All,2021.06.14,85,506,1
+El Salvador,All,2021.06.14,90,207,1
+El Salvador,All,2021.06.14,95,58,0
+El Salvador,All,2021.06.14,100,8,0
+England,All,2021.06.10,0,0,2
+England,All,2021.06.10,5,0,5
+England,All,2021.06.10,10,0,11
+England,All,2021.06.10,15,0,21
+England,All,2021.06.10,20,0,41
+England,All,2021.06.10,25,0,81
+England,All,2021.06.10,30,0,162
+England,All,2021.06.10,35,0,325
+England,All,2021.06.10,40,0,633
+England,All,2021.06.10,45,0,1142
+England,All,2021.06.10,50,0,1842
+England,All,2021.06.10,55,0,2667
+England,All,2021.06.10,60,0,3683
+England,All,2021.06.10,65,0,5404
+England,All,2021.06.10,70,0,8908
+England,All,2021.06.10,75,0,15397
+England,All,2021.06.10,80,0,21587
+England,All,2021.06.10,85,0,17221
+England,All,2021.06.10,90,0,6636
+England,All,2021.06.10,95,0,1319
+England,All,2021.06.10,100,0,164
+England and Wales,All,2021.05.28,0,0,1
+England and Wales,All,2021.05.28,5,0,3
+England and Wales,All,2021.05.28,10,0,9
+England and Wales,All,2021.05.28,15,0,25
+England and Wales,All,2021.05.28,20,0,61
+England and Wales,All,2021.05.28,25,0,129
+England and Wales,All,2021.05.28,30,0,251
+England and Wales,All,2021.05.28,35,0,432
+England and Wales,All,2021.05.28,40,0,719
+England and Wales,All,2021.05.28,45,0,1395
+England and Wales,All,2021.05.28,50,0,2546
+England and Wales,All,2021.05.28,55,0,4203
+England and Wales,All,2021.05.28,60,0,6280
+England and Wales,All,2021.05.28,65,0,8488
+England and Wales,All,2021.05.28,70,0,13390
+England and Wales,All,2021.05.28,75,0,18646
+England and Wales,All,2021.05.28,80,0,25381
+England and Wales,All,2021.05.28,85,0,27893
+England and Wales,All,2021.05.28,90,0,22614
+England and Wales,All,2021.05.28,95,0,7088
+England and Wales,All,2021.05.28,100,0,721
+Equatorial Guinea,All,2021.06.15,0,146,0
+Equatorial Guinea,All,2021.06.15,5,246,0
+Equatorial Guinea,All,2021.06.15,10,349,0
+Equatorial Guinea,All,2021.06.15,15,419,0
+Equatorial Guinea,All,2021.06.15,20,623,0
+Equatorial Guinea,All,2021.06.15,25,842,0
+Equatorial Guinea,All,2021.06.15,30,1048,0
+Equatorial Guinea,All,2021.06.15,35,1022,0
+Equatorial Guinea,All,2021.06.15,40,900,0
+Equatorial Guinea,All,2021.06.15,45,786,0
+Equatorial Guinea,All,2021.06.15,50,697,0
+Equatorial Guinea,All,2021.06.15,55,440,0
+Equatorial Guinea,All,2021.06.15,60,283,0
+Equatorial Guinea,All,2021.06.15,65,174,0
+Equatorial Guinea,All,2021.06.15,70,87,0
+Equatorial Guinea,All,2021.06.15,75,50,0
+Equatorial Guinea,All,2021.06.15,80,23,0
+Equatorial Guinea,All,2021.06.15,85,9,0
+Equatorial Guinea,All,2021.06.15,90,1,0
+Equatorial Guinea,All,2021.06.15,95,0,0
+Equatorial Guinea,All,2021.06.15,100,0,0
+Estonia,All,2021.06.15,0,1990,0
+Estonia,All,2021.06.15,5,3829,0
+Estonia,All,2021.06.15,10,5862,0
+Estonia,All,2021.06.15,15,7776,0
+Estonia,All,2021.06.15,20,8196,0
+Estonia,All,2021.06.15,25,8335,0
+Estonia,All,2021.06.15,30,11639,0
+Estonia,All,2021.06.15,35,11723,0
+Estonia,All,2021.06.15,40,10903,0
+Estonia,All,2021.06.15,45,10762,0
+Estonia,All,2021.06.15,50,9557,0
+Estonia,All,2021.06.15,55,9552,0
+Estonia,All,2021.06.15,60,9250,0
+Estonia,All,2021.06.15,65,6743,0
+Estonia,All,2021.06.15,70,4785,0
+Estonia,All,2021.06.15,75,2578,0
+Estonia,All,2021.06.15,80,2897,0
+Estonia,All,2021.06.15,85,1886,0
+Estonia,All,2021.06.15,90,827,0
+Estonia,All,2021.06.15,95,167,0
+Estonia,All,2021.06.15,100,13,0
+Eswatini,All,2021.04.18,0,263,0
+Eswatini,All,2021.04.18,5,341,0
+Eswatini,All,2021.04.18,10,497,0
+Eswatini,All,2021.04.18,15,755,0
+Eswatini,All,2021.04.18,20,1338,1
+Eswatini,All,2021.04.18,25,2115,2
+Eswatini,All,2021.04.18,30,2410,3
+Eswatini,All,2021.04.18,35,2518,5
+Eswatini,All,2021.04.18,40,1963,13
+Eswatini,All,2021.04.18,45,1633,17
+Eswatini,All,2021.04.18,50,1315,14
+Eswatini,All,2021.04.18,55,1010,16
+Eswatini,All,2021.04.18,60,752,24
+Eswatini,All,2021.04.18,65,520,27
+Eswatini,All,2021.04.18,70,371,23
+Eswatini,All,2021.04.18,75,267,17
+Eswatini,All,2021.04.18,80,193,8
+Eswatini,All,2021.04.18,85,105,4
+Eswatini,All,2021.04.18,90,35,1
+Eswatini,All,2021.04.18,95,6,0
+Eswatini,All,2021.04.18,100,1,0
+Ethiopia,All,2020.05.09,0,2,0
+Ethiopia,All,2020.05.09,5,1,0
+Ethiopia,All,2020.05.09,10,7,0
+Ethiopia,All,2020.05.09,15,15,0
+Ethiopia,All,2020.05.09,20,32,0
+Ethiopia,All,2020.05.09,25,30,0
+Ethiopia,All,2020.05.09,30,28,0
+Ethiopia,All,2020.05.09,35,26,0
+Ethiopia,All,2020.05.09,40,18,0
+Ethiopia,All,2020.05.09,45,13,0
+Ethiopia,All,2020.05.09,50,9,0
+Ethiopia,All,2020.05.09,55,3,1
+Ethiopia,All,2020.05.09,60,9,1
+Ethiopia,All,2020.05.09,65,2,2
+Ethiopia,All,2020.05.09,70,3,0
+Ethiopia,All,2020.05.09,75,3,1
+Ethiopia,All,2020.05.09,80,0,0
+Ethiopia,All,2020.05.09,85,0,0
+Ethiopia,All,2020.05.09,90,0,0
+Ethiopia,All,2020.05.09,95,0,0
+Ethiopia,All,2020.05.09,100,0,0
+Faroe Islands,All,2021.06.03,0,14,0
+Faroe Islands,All,2021.06.03,5,24,0
+Faroe Islands,All,2021.06.03,10,40,0
+Faroe Islands,All,2021.06.03,15,61,0
+Faroe Islands,All,2021.06.03,20,86,0
+Faroe Islands,All,2021.06.03,25,78,0
+Faroe Islands,All,2021.06.03,30,43,0
+Faroe Islands,All,2021.06.03,35,35,0
+Faroe Islands,All,2021.06.03,40,41,0
+Faroe Islands,All,2021.06.03,45,44,0
+Faroe Islands,All,2021.06.03,50,49,0
+Faroe Islands,All,2021.06.03,55,41,0
+Faroe Islands,All,2021.06.03,60,23,0
+Faroe Islands,All,2021.06.03,65,16,0
+Faroe Islands,All,2021.06.03,70,19,0
+Faroe Islands,All,2021.06.03,75,12,0
+Faroe Islands,All,2021.06.03,80,3,0
+Faroe Islands,All,2021.06.03,85,1,0
+Faroe Islands,All,2021.06.03,90,1,0
+Faroe Islands,All,2021.06.03,95,0,0
+Faroe Islands,All,2021.06.03,100,0,0
+Finland,All,2021.06.14,0,106,0
+Finland,All,2021.06.14,5,137,0
+Finland,All,2021.06.14,10,167,0
+Finland,All,2021.06.14,15,260,0
+Finland,All,2021.06.14,20,530,0
+Finland,All,2021.06.14,25,822,0
+Finland,All,2021.06.14,30,719,2
+Finland,All,2021.06.14,35,632,4
+Finland,All,2021.06.14,40,597,4
+Finland,All,2021.06.14,45,600,6
+Finland,All,2021.06.14,50,714,15
+Finland,All,2021.06.14,55,624,24
+Finland,All,2021.06.14,60,396,28
+Finland,All,2021.06.14,65,263,49
+Finland,All,2021.06.14,70,214,109
+Finland,All,2021.06.14,75,141,133
+Finland,All,2021.06.14,80,140,165
+Finland,All,2021.06.14,85,147,179
+Finland,All,2021.06.14,90,136,153
+Finland,All,2021.06.14,95,72,72
+Finland,All,2021.06.14,100,15,14
+France,All,2021.06.03,0,70030,1
+France,All,2021.06.03,5,151093,2
+France,All,2021.06.03,10,278818,2
+France,All,2021.06.03,15,417317,6
+France,All,2021.06.03,20,452394,25
+France,All,2021.06.03,25,436444,53
+France,All,2021.06.03,30,423372,90
+France,All,2021.06.03,35,403709,159
+France,All,2021.06.03,40,380654,270
+France,All,2021.06.03,45,419103,553
+France,All,2021.06.03,50,389355,1036
+France,All,2021.06.03,55,338112,1946
+France,All,2021.06.03,60,268093,3411
+France,All,2021.06.03,65,219592,5799
+France,All,2021.06.03,70,181315,8864
+France,All,2021.06.03,75,117608,10088
+France,All,2021.06.03,80,114172,15036
+France,All,2021.06.03,85,110707,17529
+France,All,2021.06.03,90,80658,12440
+France,All,2021.06.03,95,40017,5576
+France,All,2021.06.03,100,6373,815
+Gambia,All,2021.01.19,0,12,0
+Gambia,All,2021.01.19,5,31,0
+Gambia,All,2021.01.19,10,76,0
+Gambia,All,2021.01.19,15,177,0
+Gambia,All,2021.01.19,20,379,0
+Gambia,All,2021.01.19,25,591,0
+Gambia,All,2021.01.19,30,596,0
+Gambia,All,2021.01.19,35,485,0
+Gambia,All,2021.01.19,40,392,0
+Gambia,All,2021.01.19,45,299,0
+Gambia,All,2021.01.19,50,246,0
+Gambia,All,2021.01.19,55,194,0
+Gambia,All,2021.01.19,60,146,0
+Gambia,All,2021.01.19,65,114,0
+Gambia,All,2021.01.19,70,82,1
+Gambia,All,2021.01.19,75,50,0
+Gambia,All,2021.01.19,80,25,0
+Gambia,All,2021.01.19,85,9,0
+Gambia,All,2021.01.19,90,2,0
+Gambia,All,2021.01.19,95,0,0
+Gambia,All,2021.01.19,100,0,0
+Germany,All,2021.06.14,0,96178,9
+Germany,All,2021.06.14,5,120896,2
+Germany,All,2021.06.14,10,152222,3
+Germany,All,2021.06.14,15,189755,10
+Germany,All,2021.06.14,20,256891,23
+Germany,All,2021.06.14,25,298128,46
+Germany,All,2021.06.14,30,349329,97
+Germany,All,2021.06.14,35,327812,160
+Germany,All,2021.06.14,40,293147,260
+Germany,All,2021.06.14,45,259792,450
+Germany,All,2021.06.14,50,285798,1014
+Germany,All,2021.06.14,55,252820,1913
+Germany,All,2021.06.14,60,184193,3044
+Germany,All,2021.06.14,65,139941,4849
+Germany,All,2021.06.14,70,111664,7137
+Germany,All,2021.06.14,75,108086,11666
+Germany,All,2021.06.14,80,129516,19831
+Germany,All,2021.06.14,85,85914,17732
+Germany,All,2021.06.14,90,53208,14542
+Germany,All,2021.06.14,95,19146,6843
+Germany,All,2021.06.14,100,667,296
+Greece,All,2021.05.26,0,4951,0
+Greece,All,2021.05.26,5,7718,0
+Greece,All,2021.05.26,10,11614,1
+Greece,All,2021.05.26,15,15874,2
+Greece,All,2021.05.26,20,21384,4
+Greece,All,2021.05.26,25,27182,9
+Greece,All,2021.05.26,30,33209,20
+Greece,All,2021.05.26,35,43465,50
+Greece,All,2021.05.26,40,45508,106
+Greece,All,2021.05.26,45,40399,197
+Greece,All,2021.05.26,50,33595,340
+Greece,All,2021.05.26,55,24269,494
+Greece,All,2021.05.26,60,18624,698
+Greece,All,2021.05.26,65,13988,881
+Greece,All,2021.05.26,70,12015,1158
+Greece,All,2021.05.26,75,9525,1297
+Greece,All,2021.05.26,80,10183,1852
+Greece,All,2021.05.26,85,8312,1941
+Greece,All,2021.05.26,90,4919,1454
+Greece,All,2021.05.26,95,1921,715
+Greece,All,2021.05.26,100,1464,688
+Guatemala,All,2020.08.24,0,1019,0
+Guatemala,All,2020.08.24,5,801,0
+Guatemala,All,2020.08.24,10,883,0
+Guatemala,All,2020.08.24,15,2009,0
+Guatemala,All,2020.08.24,20,6310,0
+Guatemala,All,2020.08.24,25,11967,0
+Guatemala,All,2020.08.24,30,10429,0
+Guatemala,All,2020.08.24,35,7829,0
+Guatemala,All,2020.08.24,40,6605,0
+Guatemala,All,2020.08.24,45,5741,0
+Guatemala,All,2020.08.24,50,4667,0
+Guatemala,All,2020.08.24,55,3549,0
+Guatemala,All,2020.08.24,60,2673,0
+Guatemala,All,2020.08.24,65,2046,0
+Guatemala,All,2020.08.24,70,1296,0
+Guatemala,All,2020.08.24,75,857,0
+Guatemala,All,2020.08.24,80,527,0
+Guatemala,All,2020.08.24,85,284,0
+Guatemala,All,2020.08.24,90,116,0
+Guatemala,All,2020.08.24,95,29,0
+Guatemala,All,2020.08.24,100,4,0
+Guinea,All,2021.01.14,0,375,0
+Guinea,All,2021.01.14,5,203,0
+Guinea,All,2021.01.14,10,341,0
+Guinea,All,2021.01.14,15,798,0
+Guinea,All,2021.01.14,20,1536,0
+Guinea,All,2021.01.14,25,2063,0
+Guinea,All,2021.01.14,30,2023,0
+Guinea,All,2021.01.14,35,1642,0
+Guinea,All,2021.01.14,40,1238,0
+Guinea,All,2021.01.14,45,959,0
+Guinea,All,2021.01.14,50,793,0
+Guinea,All,2021.01.14,55,638,0
+Guinea,All,2021.01.14,60,477,0
+Guinea,All,2021.01.14,65,353,0
+Guinea,All,2021.01.14,70,228,0
+Guinea,All,2021.01.14,75,182,0
+Guinea,All,2021.01.14,80,123,0
+Guinea,All,2021.01.14,85,60,0
+Guinea,All,2021.01.14,90,19,0
+Guinea,All,2021.01.14,95,3,0
+Guinea,All,2021.01.14,100,0,0
+Haiti,All,2021.06.06,0,187,5
+Haiti,All,2021.06.06,5,200,5
+Haiti,All,2021.06.06,10,246,2
+Haiti,All,2021.06.06,15,451,2
+Haiti,All,2021.06.06,20,1071,7
+Haiti,All,2021.06.06,25,1923,10
+Haiti,All,2021.06.06,30,2256,9
+Haiti,All,2021.06.06,35,2160,13
+Haiti,All,2021.06.06,40,1686,20
+Haiti,All,2021.06.06,45,1268,23
+Haiti,All,2021.06.06,50,1072,28
+Haiti,All,2021.06.06,55,933,33
+Haiti,All,2021.06.06,60,802,34
+Haiti,All,2021.06.06,65,675,35
+Haiti,All,2021.06.06,70,454,33
+Haiti,All,2021.06.06,75,334,32
+Haiti,All,2021.06.06,80,196,22
+Haiti,All,2021.06.06,85,98,14
+Haiti,All,2021.06.06,90,40,7
+Haiti,All,2021.06.06,95,14,3
+Haiti,All,2021.06.06,100,3,1
+Honduras,All,2021.04.21,0,1571,3
+Honduras,All,2021.04.21,5,2569,5
+Honduras,All,2021.04.21,10,5357,1
+Honduras,All,2021.04.21,15,11409,4
+Honduras,All,2021.04.21,20,20086,30
+Honduras,All,2021.04.21,25,24288,67
+Honduras,All,2021.04.21,30,23221,113
+Honduras,All,2021.04.21,35,20732,180
+Honduras,All,2021.04.21,40,18658,252
+Honduras,All,2021.04.21,45,16707,319
+Honduras,All,2021.04.21,50,14941,398
+Honduras,All,2021.04.21,55,12218,487
+Honduras,All,2021.04.21,60,9840,608
+Honduras,All,2021.04.21,65,7878,688
+Honduras,All,2021.04.21,70,5479,606
+Honduras,All,2021.04.21,75,3519,474
+Honduras,All,2021.04.21,80,2116,343
+Honduras,All,2021.04.21,85,1139,222
+Honduras,All,2021.04.21,90,494,115
+Honduras,All,2021.04.21,95,158,44
+Honduras,All,2021.04.21,100,25,8
+Hungary,All,2021.06.14,0,0,2
+Hungary,All,2021.06.14,5,0,0
+Hungary,All,2021.06.14,10,0,1
+Hungary,All,2021.06.14,15,0,6
+Hungary,All,2021.06.14,20,0,23
+Hungary,All,2021.06.14,25,0,69
+Hungary,All,2021.06.14,30,0,85
+Hungary,All,2021.06.14,35,0,147
+Hungary,All,2021.06.14,40,0,317
+Hungary,All,2021.06.14,45,0,539
+Hungary,All,2021.06.14,50,0,919
+Hungary,All,2021.06.14,55,0,1400
+Hungary,All,2021.06.14,60,0,2406
+Hungary,All,2021.06.14,65,0,3825
+Hungary,All,2021.06.14,70,0,4354
+Hungary,All,2021.06.14,75,0,4901
+Hungary,All,2021.06.14,80,0,4807
+Hungary,All,2021.06.14,85,0,3795
+Hungary,All,2021.06.14,90,0,1850
+Hungary,All,2021.06.14,95,0,451
+Hungary,All,2021.06.14,100,0,28
+Iceland,All,2021.06.11,0,700,0
+Iceland,All,2021.06.11,5,729,0
+Iceland,All,2021.06.11,10,729,0
+Iceland,All,2021.06.11,15,678,0
+Iceland,All,2021.06.11,20,782,0
+Iceland,All,2021.06.11,25,962,0
+Iceland,All,2021.06.11,30,916,0
+Iceland,All,2021.06.11,35,961,1
+Iceland,All,2021.06.11,40,957,0
+Iceland,All,2021.06.11,45,908,0
+Iceland,All,2021.06.11,50,794,0
+Iceland,All,2021.06.11,55,729,1
+Iceland,All,2021.06.11,60,619,2
+Iceland,All,2021.06.11,65,426,3
+Iceland,All,2021.06.11,70,263,4
+Iceland,All,2021.06.11,75,151,5
+Iceland,All,2021.06.11,80,100,12
+Iceland,All,2021.06.11,85,80,15
+Iceland,All,2021.06.11,90,49,8
+Iceland,All,2021.06.11,95,15,3
+Iceland,All,2021.06.11,100,3,0
+India,All,2020.10.02,0,109337,228
+India,All,2020.10.02,5,146500,54
+India,All,2020.10.02,10,188822,173
+India,All,2020.10.02,15,298651,271
+India,All,2020.10.02,20,641160,771
+India,All,2020.10.02,25,828385,1151
+India,All,2020.10.02,30,779858,2118
+India,All,2020.10.02,35,706148,3291
+India,All,2020.10.02,40,590545,4877
+India,All,2020.10.02,45,566712,8277
+India,All,2020.10.02,50,465114,10461
+India,All,2020.10.02,55,407005,13329
+India,All,2020.10.02,60,281083,14295
+India,All,2020.10.02,65,210505,14230
+India,All,2020.10.02,70,127089,11916
+India,All,2020.10.02,75,65971,7430
+India,All,2020.10.02,80,35196,4584
+India,All,2020.10.02,85,17076,2313
+India,All,2020.10.02,90,5405,890
+India,All,2020.10.02,95,1474,184
+India,All,2020.10.02,100,184,21
+Indonesia,All,2021.06.14,0,45023,265
+Indonesia,All,2021.06.14,5,56745,142
+Indonesia,All,2021.06.14,10,74101,111
+Indonesia,All,2021.06.14,15,118334,177
+Indonesia,All,2021.06.14,20,176257,404
+Indonesia,All,2021.06.14,25,202589,777
+Indonesia,All,2021.06.14,30,192195,1161
+Indonesia,All,2021.06.14,35,190386,1723
+Indonesia,All,2021.06.14,40,178805,2515
+Indonesia,All,2021.06.14,45,179378,4298
+Indonesia,All,2021.06.14,50,163429,6818
+Indonesia,All,2021.06.14,55,124239,8328
+Indonesia,All,2021.06.14,60,82912,7768
+Indonesia,All,2021.06.14,65,49527,5741
+Indonesia,All,2021.06.14,70,31149,4135
+Indonesia,All,2021.06.14,75,22617,3304
+Indonesia,All,2021.06.14,80,16593,2636
+Indonesia,All,2021.06.14,85,9237,1604
+Indonesia,All,2021.06.14,90,4628,892
+Indonesia,All,2021.06.14,95,1231,267
+Indonesia,All,2021.06.14,100,162,39
+Iraq,All,2020.05.24,0,148,0
+Iraq,All,2020.05.24,5,194,0
+Iraq,All,2020.05.24,10,231,0
+Iraq,All,2020.05.24,15,293,0
+Iraq,All,2020.05.24,20,369,0
+Iraq,All,2020.05.24,25,422,1
+Iraq,All,2020.05.24,30,436,3
+Iraq,All,2020.05.24,35,405,5
+Iraq,All,2020.05.24,40,379,9
+Iraq,All,2020.05.24,45,372,14
+Iraq,All,2020.05.24,50,365,21
+Iraq,All,2020.05.24,55,258,21
+Iraq,All,2020.05.24,60,174,16
+Iraq,All,2020.05.24,65,168,20
+Iraq,All,2020.05.24,70,106,18
+Iraq,All,2020.05.24,75,76,16
+Iraq,All,2020.05.24,80,30,6
+Iraq,All,2020.05.24,85,11,3
+Iraq,All,2020.05.24,90,2,1
+Iraq,All,2020.05.24,95,0,0
+Iraq,All,2020.05.24,100,0,0
+Ireland,All,2020.05.24,0,145,0
+Ireland,All,2020.05.24,5,113,0
+Ireland,All,2020.05.24,10,177,0
+Ireland,All,2020.05.24,15,509,0
+Ireland,All,2020.05.24,20,1284,1
+Ireland,All,2020.05.24,25,1974,1
+Ireland,All,2020.05.24,30,2164,3
+Ireland,All,2020.05.24,35,2209,4
+Ireland,All,2020.05.24,40,2121,6
+Ireland,All,2020.05.24,45,2222,9
+Ireland,All,2020.05.24,50,2196,13
+Ireland,All,2020.05.24,55,1881,21
+Ireland,All,2020.05.24,60,1280,36
+Ireland,All,2020.05.24,65,889,67
+Ireland,All,2020.05.24,70,865,125
+Ireland,All,2020.05.24,75,999,194
+Ireland,All,2020.05.24,80,1226,267
+Ireland,All,2020.05.24,85,1171,277
+Ireland,All,2020.05.24,90,761,200
+Ireland,All,2020.05.24,95,317,93
+Ireland,All,2020.05.24,100,57,18
+Isle of Man,All,2021.03.01,0,9,0
+Isle of Man,All,2021.03.01,5,12,0
+Isle of Man,All,2021.03.01,10,16,0
+Isle of Man,All,2021.03.01,15,22,0
+Isle of Man,All,2021.03.01,20,29,0
+Isle of Man,All,2021.03.01,25,33,0
+Isle of Man,All,2021.03.01,30,36,0
+Isle of Man,All,2021.03.01,35,36,0
+Isle of Man,All,2021.03.01,40,38,0
+Isle of Man,All,2021.03.01,45,41,0
+Isle of Man,All,2021.03.01,50,46,0
+Isle of Man,All,2021.03.01,55,42,0
+Isle of Man,All,2021.03.01,60,31,0
+Isle of Man,All,2021.03.01,65,18,0
+Isle of Man,All,2021.03.01,70,13,0
+Isle of Man,All,2021.03.01,75,10,0
+Isle of Man,All,2021.03.01,80,10,0
+Isle of Man,All,2021.03.01,85,9,0
+Isle of Man,All,2021.03.01,90,9,0
+Isle of Man,All,2021.03.01,95,8,0
+Isle of Man,All,2021.03.01,100,7,0
+Israel,All,2021.04.18,0,59160,1
+Israel,All,2021.04.18,5,72194,1
+Israel,All,2021.04.18,10,79925,3
+Israel,All,2021.04.18,15,85079,5
+Israel,All,2021.04.18,20,84776,12
+Israel,All,2021.04.18,25,72747,18
+Israel,All,2021.04.18,30,61760,20
+Israel,All,2021.04.18,35,54134,28
+Israel,All,2021.04.18,40,50896,45
+Israel,All,2021.04.18,45,47158,75
+Israel,All,2021.04.18,50,39464,131
+Israel,All,2021.04.18,55,32678,223
+Israel,All,2021.04.18,60,25490,345
+Israel,All,2021.04.18,65,21360,584
+Israel,All,2021.04.18,70,15183,813
+Israel,All,2021.04.18,75,8534,793
+Israel,All,2021.04.18,80,6602,923
+Israel,All,2021.04.18,85,5307,996
+Israel,All,2021.04.18,90,3345,804
+Israel,All,2021.04.18,95,1380,421
+Israel,All,2021.04.18,100,218,83
+Italy,All,2021.06.14,0,93140,3
+Italy,All,2021.06.14,5,138843,5
+Italy,All,2021.06.14,10,186886,5
+Italy,All,2021.06.14,15,220633,9
+Italy,All,2021.06.14,20,243550,23
+Italy,All,2021.06.14,25,256956,46
+Italy,All,2021.06.14,30,258341,85
+Italy,All,2021.06.14,35,268909,167
+Italy,All,2021.06.14,40,312110,357
+Italy,All,2021.06.14,45,366480,759
+Italy,All,2021.06.14,50,388795,1554
+Italy,All,2021.06.14,55,344886,2891
+Italy,All,2021.06.14,60,260735,4892
+Italy,All,2021.06.14,65,205410,8077
+Italy,All,2021.06.14,70,186140,13362
+Italy,All,2021.06.14,75,153082,18451
+Italy,All,2021.06.14,80,144388,25617
+Italy,All,2021.06.14,85,109318,25312
+Italy,All,2021.06.14,90,62288,16748
+Italy,All,2021.06.14,95,22361,6705
+Italy,All,2021.06.14,100,2956,975
+Jamaica,All,2021.06.02,0,1214,1
+Jamaica,All,2021.06.02,5,1276,1
+Jamaica,All,2021.06.02,10,1444,2
+Jamaica,All,2021.06.02,15,2261,4
+Jamaica,All,2021.06.02,20,4085,2
+Jamaica,All,2021.06.02,25,5367,4
+Jamaica,All,2021.06.02,30,4990,12
+Jamaica,All,2021.06.02,35,4271,19
+Jamaica,All,2021.06.02,40,3636,28
+Jamaica,All,2021.06.02,45,3784,42
+Jamaica,All,2021.06.02,50,3713,49
+Jamaica,All,2021.06.02,55,3244,66
+Jamaica,All,2021.06.02,60,2686,102
+Jamaica,All,2021.06.02,65,1982,114
+Jamaica,All,2021.06.02,70,1615,115
+Jamaica,All,2021.06.02,75,1193,110
+Jamaica,All,2021.06.02,80,875,110
+Jamaica,All,2021.06.02,85,578,89
+Jamaica,All,2021.06.02,90,307,51
+Jamaica,All,2021.06.02,95,88,16
+Jamaica,All,2021.06.02,100,18,3
+Japan,All,2020.08.19,0,564,0
+Japan,All,2020.08.19,5,553,0
+Japan,All,2020.08.19,10,719,0
+Japan,All,2020.08.19,15,1941,0
+Japan,All,2020.08.19,20,6841,0
+Japan,All,2020.08.19,25,9836,0
+Japan,All,2020.08.19,30,6070,1
+Japan,All,2020.08.19,35,3596,2
+Japan,All,2020.08.19,40,3447,2
+Japan,All,2020.08.19,45,4144,4
+Japan,All,2020.08.19,50,3748,11
+Japan,All,2020.08.19,55,2916,18
+Japan,All,2020.08.19,60,2150,30
+Japan,All,2020.08.19,65,1969,61
+Japan,All,2020.08.19,70,1811,96
+Japan,All,2020.08.19,75,1577,136
+Japan,All,2020.08.19,80,1324,164
+Japan,All,2020.08.19,85,1071,157
+Japan,All,2020.08.19,90,657,96
+Japan,All,2020.08.19,95,240,35
+Japan,All,2020.08.19,100,48,6
+Jordan,All,2021.06.15,0,9834,12
+Jordan,All,2021.06.15,5,21635,7
+Jordan,All,2021.06.15,10,39604,9
+Jordan,All,2021.06.15,15,59594,19
+Jordan,All,2021.06.15,20,79686,31
+Jordan,All,2021.06.15,25,94802,53
+Jordan,All,2021.06.15,30,92705,90
+Jordan,All,2021.06.15,35,80259,146
+Jordan,All,2021.06.15,40,63222,230
+Jordan,All,2021.06.15,45,54179,389
+Jordan,All,2021.06.15,50,44332,616
+Jordan,All,2021.06.15,55,33275,882
+Jordan,All,2021.06.15,60,21968,1053
+Jordan,All,2021.06.15,65,14569,1177
+Jordan,All,2021.06.15,70,11074,1385
+Jordan,All,2021.06.15,75,9161,1496
+Jordan,All,2021.06.15,80,7058,1162
+Jordan,All,2021.06.15,85,4341,604
+Jordan,All,2021.06.15,90,1660,202
+Jordan,All,2021.06.15,95,320,38
+Jordan,All,2021.06.15,100,30,3
+Kazakhstan,All,2020.12.30,0,209,0
+Kazakhstan,All,2020.12.30,5,124,0
+Kazakhstan,All,2020.12.30,10,142,0
+Kazakhstan,All,2020.12.30,15,545,0
+Kazakhstan,All,2020.12.30,20,1131,0
+Kazakhstan,All,2020.12.30,25,884,0
+Kazakhstan,All,2020.12.30,30,828,0
+Kazakhstan,All,2020.12.30,35,625,0
+Kazakhstan,All,2020.12.30,40,555,0
+Kazakhstan,All,2020.12.30,45,543,0
+Kazakhstan,All,2020.12.30,50,458,0
+Kazakhstan,All,2020.12.30,55,377,0
+Kazakhstan,All,2020.12.30,60,187,0
+Kazakhstan,All,2020.12.30,65,100,0
+Kazakhstan,All,2020.12.30,70,74,0
+Kazakhstan,All,2020.12.30,75,44,0
+Kazakhstan,All,2020.12.30,80,39,0
+Kazakhstan,All,2020.12.30,85,22,0
+Kazakhstan,All,2020.12.30,90,10,0
+Kazakhstan,All,2020.12.30,95,1,0
+Kazakhstan,All,2020.12.30,100,0,0
+Kenya,All,2020.08.31,0,426,3
+Kenya,All,2020.08.31,5,286,3
+Kenya,All,2020.08.31,10,253,0
+Kenya,All,2020.08.31,15,440,1
+Kenya,All,2020.08.31,20,1284,3
+Kenya,All,2020.08.31,25,2615,4
+Kenya,All,2020.08.31,30,3165,11
+Kenya,All,2020.08.31,35,2560,18
+Kenya,All,2020.08.31,40,1911,24
+Kenya,All,2020.08.31,45,1517,29
+Kenya,All,2020.08.31,50,1174,29
+Kenya,All,2020.08.31,55,792,27
+Kenya,All,2020.08.31,60,463,23
+Kenya,All,2020.08.31,65,270,21
+Kenya,All,2020.08.31,70,155,19
+Kenya,All,2020.08.31,75,91,16
+Kenya,All,2020.08.31,80,68,17
+Kenya,All,2020.08.31,85,41,14
+Kenya,All,2020.08.31,90,12,6
+Kenya,All,2020.08.31,95,1,1
+Kenya,All,2020.08.31,100,0,0
+Kyrgyzstan,All,2020.09.26,0,1429,0
+Kyrgyzstan,All,2020.09.26,5,1821,0
+Kyrgyzstan,All,2020.09.26,10,1858,0
+Kyrgyzstan,All,2020.09.26,15,2212,0
+Kyrgyzstan,All,2020.09.26,20,3636,0
+Kyrgyzstan,All,2020.09.26,25,6019,0
+Kyrgyzstan,All,2020.09.26,30,7348,0
+Kyrgyzstan,All,2020.09.26,35,5498,0
+Kyrgyzstan,All,2020.09.26,40,3781,0
+Kyrgyzstan,All,2020.09.26,45,2767,0
+Kyrgyzstan,All,2020.09.26,50,2131,0
+Kyrgyzstan,All,2020.09.26,55,1889,0
+Kyrgyzstan,All,2020.09.26,60,1484,0
+Kyrgyzstan,All,2020.09.26,65,1108,0
+Kyrgyzstan,All,2020.09.26,70,776,0
+Kyrgyzstan,All,2020.09.26,75,467,0
+Kyrgyzstan,All,2020.09.26,80,762,0
+Kyrgyzstan,All,2020.09.26,85,620,0
+Kyrgyzstan,All,2020.09.26,90,328,0
+Kyrgyzstan,All,2020.09.26,95,132,0
+Kyrgyzstan,All,2020.09.26,100,15,0
+Lebanon,All,2021.06.14,0,7875,0
+Lebanon,All,2021.06.14,5,8404,0
+Lebanon,All,2021.06.14,10,10497,0
+Lebanon,All,2021.06.14,15,22604,0
+Lebanon,All,2021.06.14,20,58178,0
+Lebanon,All,2021.06.14,25,84537,0
+Lebanon,All,2021.06.14,30,58867,0
+Lebanon,All,2021.06.14,35,39894,0
+Lebanon,All,2021.06.14,40,35539,0
+Lebanon,All,2021.06.14,45,35548,0
+Lebanon,All,2021.06.14,50,38307,0
+Lebanon,All,2021.06.14,55,38206,0
+Lebanon,All,2021.06.14,60,32892,0
+Lebanon,All,2021.06.14,65,27341,0
+Lebanon,All,2021.06.14,70,17329,0
+Lebanon,All,2021.06.14,75,10345,0
+Lebanon,All,2021.06.14,80,8747,0
+Lebanon,All,2021.06.14,85,5366,0
+Lebanon,All,2021.06.14,90,1702,0
+Lebanon,All,2021.06.14,95,404,0
+Lebanon,All,2021.06.14,100,58,0
+Malawi,All,2020.12.27,0,76,0
+Malawi,All,2020.12.27,5,57,0
+Malawi,All,2020.12.27,10,73,0
+Malawi,All,2020.12.27,15,171,0
+Malawi,All,2020.12.27,20,489,1
+Malawi,All,2020.12.27,25,942,3
+Malawi,All,2020.12.27,30,1080,6
+Malawi,All,2020.12.27,35,882,10
+Malawi,All,2020.12.27,40,703,17
+Malawi,All,2020.12.27,45,502,22
+Malawi,All,2020.12.27,50,331,22
+Malawi,All,2020.12.27,55,217,23
+Malawi,All,2020.12.27,60,145,24
+Malawi,All,2020.12.27,65,89,19
+Malawi,All,2020.12.27,70,55,13
+Malawi,All,2020.12.27,75,32,9
+Malawi,All,2020.12.27,80,18,6
+Malawi,All,2020.12.27,85,8,3
+Malawi,All,2020.12.27,90,2,1
+Malawi,All,2020.12.27,95,0,0
+Malawi,All,2020.12.27,100,0,0
+Maldives,All,N/A,0,0,0
+Maldives,All,N/A,5,0,0
+Maldives,All,N/A,10,0,0
+Maldives,All,N/A,15,0,0
+Maldives,All,N/A,20,0,0
+Maldives,All,N/A,25,0,0
+Maldives,All,N/A,30,0,0
+Maldives,All,N/A,35,0,0
+Maldives,All,N/A,40,0,0
+Maldives,All,N/A,45,0,0
+Maldives,All,N/A,50,0,0
+Maldives,All,N/A,55,0,0
+Maldives,All,N/A,60,0,0
+Maldives,All,N/A,65,0,0
+Maldives,All,N/A,70,0,0
+Maldives,All,N/A,75,0,0
+Maldives,All,N/A,80,0,0
+Maldives,All,N/A,85,0,0
+Maldives,All,N/A,90,0,0
+Maldives,All,N/A,95,0,0
+Maldives,All,N/A,100,0,0
+Mali,All,2020.08.24,0,76,0
+Mali,All,2020.08.24,5,64,0
+Mali,All,2020.08.24,10,82,0
+Mali,All,2020.08.24,15,137,0
+Mali,All,2020.08.24,20,208,0
+Mali,All,2020.08.24,25,272,0
+Mali,All,2020.08.24,30,279,0
+Mali,All,2020.08.24,35,241,0
+Mali,All,2020.08.24,40,205,0
+Mali,All,2020.08.24,45,186,0
+Mali,All,2020.08.24,50,178,0
+Mali,All,2020.08.24,55,181,0
+Mali,All,2020.08.24,60,176,0
+Mali,All,2020.08.24,65,150,0
+Mali,All,2020.08.24,70,104,0
+Mali,All,2020.08.24,75,81,0
+Mali,All,2020.08.24,80,47,0
+Mali,All,2020.08.24,85,23,0
+Mali,All,2020.08.24,90,7,0
+Mali,All,2020.08.24,95,1,0
+Mali,All,2020.08.24,100,0,0
+Mauritania,All,2020.05.24,0,5,0
+Mauritania,All,2020.05.24,5,5,0
+Mauritania,All,2020.05.24,10,8,0
+Mauritania,All,2020.05.24,15,11,0
+Mauritania,All,2020.05.24,20,17,0
+Mauritania,All,2020.05.24,25,31,0
+Mauritania,All,2020.05.24,30,33,0
+Mauritania,All,2020.05.24,35,19,0
+Mauritania,All,2020.05.24,40,17,0
+Mauritania,All,2020.05.24,45,20,0
+Mauritania,All,2020.05.24,50,18,0
+Mauritania,All,2020.05.24,55,17,0
+Mauritania,All,2020.05.24,60,13,0
+Mauritania,All,2020.05.24,65,6,0
+Mauritania,All,2020.05.24,70,4,0
+Mauritania,All,2020.05.24,75,2,0
+Mauritania,All,2020.05.24,80,2,0
+Mauritania,All,2020.05.24,85,1,0
+Mauritania,All,2020.05.24,90,0,0
+Mauritania,All,2020.05.24,95,0,0
+Mauritania,All,2020.05.24,100,0,0
+Mexico,All,2021.05.03,0,11654,332
+Mexico,All,2021.05.03,5,14465,68
+Mexico,All,2021.05.03,10,29345,97
+Mexico,All,2021.05.03,15,67828,234
+Mexico,All,2021.05.03,20,163559,734
+Mexico,All,2021.05.03,25,246895,1630
+Mexico,All,2021.05.03,30,255489,3099
+Mexico,All,2021.05.03,35,246918,5160
+Mexico,All,2021.05.03,40,234281,8609
+Mexico,All,2021.05.03,45,243328,14357
+Mexico,All,2021.05.03,50,215777,19406
+Mexico,All,2021.05.03,55,183035,25481
+Mexico,All,2021.05.03,60,140660,30011
+Mexico,All,2021.05.03,65,106437,30766
+Mexico,All,2021.05.03,70,77520,27888
+Mexico,All,2021.05.03,75,53673,22152
+Mexico,All,2021.05.03,80,32999,15052
+Mexico,All,2021.05.03,85,17421,8411
+Mexico,All,2021.05.03,90,6412,3006
+Mexico,All,2021.05.03,95,1710,748
+Mexico,All,2021.05.03,100,494,104
+Moldova,All,2021.03.18,0,2150,0
+Moldova,All,2021.03.18,5,1982,0
+Moldova,All,2021.03.18,10,3517,0
+Moldova,All,2021.03.18,15,5819,1
+Moldova,All,2021.03.18,20,8083,2
+Moldova,All,2021.03.18,25,12274,8
+Moldova,All,2021.03.18,30,16994,20
+Moldova,All,2021.03.18,35,17537,38
+Moldova,All,2021.03.18,40,16784,69
+Moldova,All,2021.03.18,45,17431,123
+Moldova,All,2021.03.18,50,18541,208
+Moldova,All,2021.03.18,55,23432,427
+Moldova,All,2021.03.18,60,23966,710
+Moldova,All,2021.03.18,65,20100,949
+Moldova,All,2021.03.18,70,10738,721
+Moldova,All,2021.03.18,75,5522,549
+Moldova,All,2021.03.18,80,2807,371
+Moldova,All,2021.03.18,85,1012,176
+Moldova,All,2021.03.18,90,205,46
+Moldova,All,2021.03.18,95,24,7
+Moldova,All,2021.03.18,100,2,0
+Montenegro,All,2021.06.15,0,1100,0
+Montenegro,All,2021.06.15,5,1815,0
+Montenegro,All,2021.06.15,10,3054,0
+Montenegro,All,2021.06.15,15,4461,0
+Montenegro,All,2021.06.15,20,6322,0
+Montenegro,All,2021.06.15,25,8185,0
+Montenegro,All,2021.06.15,30,9292,0
+Montenegro,All,2021.06.15,35,10227,0
+Montenegro,All,2021.06.15,40,9072,0
+Montenegro,All,2021.06.15,45,8288,0
+Montenegro,All,2021.06.15,50,7508,0
+Montenegro,All,2021.06.15,55,7842,0
+Montenegro,All,2021.06.15,60,6832,0
+Montenegro,All,2021.06.15,65,6185,0
+Montenegro,All,2021.06.15,70,4101,0
+Montenegro,All,2021.06.15,75,2573,0
+Montenegro,All,2021.06.15,80,1965,0
+Montenegro,All,2021.06.15,85,890,0
+Montenegro,All,2021.06.15,90,236,0
+Montenegro,All,2021.06.15,95,31,0
+Montenegro,All,2021.06.15,100,2,0
+Mozambique,All,2021.01.27,0,1370,0
+Mozambique,All,2021.01.27,5,1068,0
+Mozambique,All,2021.01.27,10,1268,0
+Mozambique,All,2021.01.27,15,1828,0
+Mozambique,All,2021.01.27,20,3747,0
+Mozambique,All,2021.01.27,25,4680,0
+Mozambique,All,2021.01.27,30,4689,0
+Mozambique,All,2021.01.27,35,4202,0
+Mozambique,All,2021.01.27,40,3499,0
+Mozambique,All,2021.01.27,45,2288,0
+Mozambique,All,2021.01.27,50,2012,0
+Mozambique,All,2021.01.27,55,1503,0
+Mozambique,All,2021.01.27,60,1221,0
+Mozambique,All,2021.01.27,65,760,0
+Mozambique,All,2021.01.27,70,413,0
+Mozambique,All,2021.01.27,75,213,0
+Mozambique,All,2021.01.27,80,106,0
+Mozambique,All,2021.01.27,85,41,0
+Mozambique,All,2021.01.27,90,9,0
+Mozambique,All,2021.01.27,95,1,0
+Mozambique,All,2021.01.27,100,0,0
+Namibia,All,2020.10.15,0,277,0
+Namibia,All,2020.10.15,5,262,0
+Namibia,All,2020.10.15,10,410,0
+Namibia,All,2020.10.15,15,720,0
+Namibia,All,2020.10.15,20,1306,0
+Namibia,All,2020.10.15,25,1759,0
+Namibia,All,2020.10.15,30,1778,0
+Namibia,All,2020.10.15,35,1539,0
+Namibia,All,2020.10.15,40,1321,0
+Namibia,All,2020.10.15,45,1077,0
+Namibia,All,2020.10.15,50,755,0
+Namibia,All,2020.10.15,55,493,0
+Namibia,All,2020.10.15,60,266,0
+Namibia,All,2020.10.15,65,130,0
+Namibia,All,2020.10.15,70,63,0
+Namibia,All,2020.10.15,75,32,0
+Namibia,All,2020.10.15,80,14,0
+Namibia,All,2020.10.15,85,4,0
+Namibia,All,2020.10.15,90,0,0
+Namibia,All,2020.10.15,95,0,0
+Namibia,All,2020.10.15,100,0,0
+Nepal,All,2020.09.26,0,720,2
+Nepal,All,2020.09.26,5,1632,3
+Nepal,All,2020.09.26,10,3727,3
+Nepal,All,2020.09.26,15,7827,5
+Nepal,All,2020.09.26,20,12776,8
+Nepal,All,2020.09.26,25,13731,11
+Nepal,All,2020.09.26,30,10946,13
+Nepal,All,2020.09.26,35,7505,18
+Nepal,All,2020.09.26,40,4986,31
+Nepal,All,2020.09.26,45,3180,39
+Nepal,All,2020.09.26,50,2023,36
+Nepal,All,2020.09.26,55,1242,34
+Nepal,All,2020.09.26,60,713,37
+Nepal,All,2020.09.26,65,402,36
+Nepal,All,2020.09.26,70,201,26
+Nepal,All,2020.09.26,75,117,22
+Nepal,All,2020.09.26,80,53,14
+Nepal,All,2020.09.26,85,23,8
+Nepal,All,2020.09.26,90,8,3
+Nepal,All,2020.09.26,95,1,1
+Nepal,All,2020.09.26,100,0,0
+Netherlands,All,2021.06.15,0,17481,0
+Netherlands,All,2021.06.15,5,42091,0
+Netherlands,All,2021.06.15,10,87085,0
+Netherlands,All,2021.06.15,15,140191,1
+Netherlands,All,2021.06.15,20,154062,3
+Netherlands,All,2021.06.15,25,143161,5
+Netherlands,All,2021.06.15,30,123893,10
+Netherlands,All,2021.06.15,35,111944,17
+Netherlands,All,2021.06.15,40,111497,31
+Netherlands,All,2021.06.15,45,136650,69
+Netherlands,All,2021.06.15,50,149622,138
+Netherlands,All,2021.06.15,55,130854,263
+Netherlands,All,2021.06.15,60,93543,475
+Netherlands,All,2021.06.15,65,66039,899
+Netherlands,All,2021.06.15,70,54676,1836
+Netherlands,All,2021.06.15,75,37849,2675
+Netherlands,All,2021.06.15,80,31011,3743
+Netherlands,All,2021.06.15,85,23624,3918
+Netherlands,All,2021.06.15,90,12975,2525
+Netherlands,All,2021.06.15,95,4347,945
+Netherlands,All,2021.06.15,100,624,151
+New Zealand,All,2021.06.14,0,0,0
+New Zealand,All,2021.06.14,5,0,0
+New Zealand,All,2021.06.14,10,0,0
+New Zealand,All,2021.06.14,15,0,0
+New Zealand,All,2021.06.14,20,0,0
+New Zealand,All,2021.06.14,25,0,0
+New Zealand,All,2021.06.14,30,0,0
+New Zealand,All,2021.06.14,35,0,0
+New Zealand,All,2021.06.14,40,0,0
+New Zealand,All,2021.06.14,45,0,0
+New Zealand,All,2021.06.14,50,0,1
+New Zealand,All,2021.06.14,55,0,1
+New Zealand,All,2021.06.14,60,0,1
+New Zealand,All,2021.06.14,65,0,1
+New Zealand,All,2021.06.14,70,0,3
+New Zealand,All,2021.06.14,75,0,3
+New Zealand,All,2021.06.14,80,0,3
+New Zealand,All,2021.06.14,85,0,4
+New Zealand,All,2021.06.14,90,0,3
+New Zealand,All,2021.06.14,95,0,1
+New Zealand,All,2021.06.14,100,0,0
+Nicaragua,All,2020.04.16,0,6,0
+Nicaragua,All,2020.04.16,5,0,0
+Nicaragua,All,2020.04.16,10,5,0
+Nicaragua,All,2020.04.16,15,11,0
+Nicaragua,All,2020.04.16,20,55,1
+Nicaragua,All,2020.04.16,25,73,1
+Nicaragua,All,2020.04.16,30,33,0
+Nicaragua,All,2020.04.16,35,22,0
+Nicaragua,All,2020.04.16,40,24,1
+Nicaragua,All,2020.04.16,45,15,1
+Nicaragua,All,2020.04.16,50,3,0
+Nicaragua,All,2020.04.16,55,2,0
+Nicaragua,All,2020.04.16,60,5,2
+Nicaragua,All,2020.04.16,65,4,3
+Nicaragua,All,2020.04.16,70,4,3
+Nicaragua,All,2020.04.16,75,5,4
+Nicaragua,All,2020.04.16,80,2,1
+Nicaragua,All,2020.04.16,85,1,1
+Nicaragua,All,2020.04.16,90,0,0
+Nicaragua,All,2020.04.16,95,0,0
+Nicaragua,All,2020.04.16,100,0,0
+Nigeria,All,2021.04.11,0,2170,4
+Nigeria,All,2021.04.11,5,2722,5
+Nigeria,All,2021.04.11,10,4461,7
+Nigeria,All,2021.04.11,15,7382,10
+Nigeria,All,2021.04.11,20,12057,22
+Nigeria,All,2021.04.11,25,19551,40
+Nigeria,All,2021.04.11,30,20022,41
+Nigeria,All,2021.04.11,35,19694,27
+Nigeria,All,2021.04.11,40,16789,26
+Nigeria,All,2021.04.11,45,12930,109
+Nigeria,All,2021.04.11,50,11536,179
+Nigeria,All,2021.04.11,55,8007,191
+Nigeria,All,2021.04.11,60,5557,246
+Nigeria,All,2021.04.11,65,3225,187
+Nigeria,All,2021.04.11,70,2241,171
+Nigeria,All,2021.04.11,75,1225,123
+Nigeria,All,2021.04.11,80,748,95
+Nigeria,All,2021.04.11,85,442,45
+Nigeria,All,2021.04.11,90,187,15
+Nigeria,All,2021.04.11,95,49,3
+Nigeria,All,2021.04.11,100,7,0
+Northern Ireland,All,2021.06.11,0,2421,0
+Northern Ireland,All,2021.06.11,5,3710,0
+Northern Ireland,All,2021.06.11,10,5168,0
+Northern Ireland,All,2021.06.11,15,6369,0
+Northern Ireland,All,2021.06.11,20,8475,0
+Northern Ireland,All,2021.06.11,25,11073,0
+Northern Ireland,All,2021.06.11,30,12983,1
+Northern Ireland,All,2021.06.11,35,12897,2
+Northern Ireland,All,2021.06.11,40,11241,6
+Northern Ireland,All,2021.06.11,45,10066,13
+Northern Ireland,All,2021.06.11,50,8890,30
+Northern Ireland,All,2021.06.11,55,7215,57
+Northern Ireland,All,2021.06.11,60,5303,90
+Northern Ireland,All,2021.06.11,65,4049,134
+Northern Ireland,All,2021.06.11,70,3697,213
+Northern Ireland,All,2021.06.11,75,3244,291
+Northern Ireland,All,2021.06.11,80,2711,359
+Northern Ireland,All,2021.06.11,85,2174,405
+Northern Ireland,All,2021.06.11,90,1442,375
+Northern Ireland,All,2021.06.11,95,431,153
+Northern Ireland,All,2021.06.11,100,32,16
+Norway,All,2021.06.15,0,4365,0
+Norway,All,2021.06.15,5,6900,0
+Norway,All,2021.06.15,10,9808,0
+Norway,All,2021.06.15,15,11770,0
+Norway,All,2021.06.15,20,13090,0
+Norway,All,2021.06.15,25,12962,0
+Norway,All,2021.06.15,30,11485,1
+Norway,All,2021.06.15,35,10090,2
+Norway,All,2021.06.15,40,9625,3
+Norway,All,2021.06.15,45,10153,7
+Norway,All,2021.06.15,50,9063,13
+Norway,All,2021.06.15,55,6428,22
+Norway,All,2021.06.15,60,4293,38
+Norway,All,2021.06.15,65,2783,57
+Norway,All,2021.06.15,70,2081,83
+Norway,All,2021.06.15,75,1300,96
+Norway,All,2021.06.15,80,878,121
+Norway,All,2021.06.15,85,628,143
+Norway,All,2021.06.15,90,364,120
+Norway,All,2021.06.15,95,131,62
+Norway,All,2021.06.15,100,19,12
+Pakistan,All,2020.06.02,0,0,0
+Pakistan,All,2020.06.02,5,0,0
+Pakistan,All,2020.06.02,10,741,3
+Pakistan,All,2020.06.02,15,5502,9
+Pakistan,All,2020.06.02,20,9632,18
+Pakistan,All,2020.06.02,25,9473,30
+Pakistan,All,2020.06.02,30,9980,36
+Pakistan,All,2020.06.02,35,9447,49
+Pakistan,All,2020.06.02,40,7606,79
+Pakistan,All,2020.06.02,45,6312,119
+Pakistan,All,2020.06.02,50,6017,179
+Pakistan,All,2020.06.02,55,5593,246
+Pakistan,All,2020.06.02,60,4306,276
+Pakistan,All,2020.06.02,65,2649,230
+Pakistan,All,2020.06.02,70,1652,178
+Pakistan,All,2020.06.02,75,956,122
+Pakistan,All,2020.06.02,80,456,65
+Pakistan,All,2020.06.02,85,184,30
+Pakistan,All,2020.06.02,90,52,9
+Pakistan,All,2020.06.02,95,9,1
+Pakistan,All,2020.06.02,100,1,0
+Palestine,All,2021.06.14,0,7092,0
+Palestine,All,2021.06.14,5,14523,0
+Palestine,All,2021.06.14,10,25763,0
+Palestine,All,2021.06.14,15,33914,0
+Palestine,All,2021.06.14,20,35049,0
+Palestine,All,2021.06.14,25,34287,0
+Palestine,All,2021.06.14,30,33419,0
+Palestine,All,2021.06.14,35,30413,0
+Palestine,All,2021.06.14,40,26131,0
+Palestine,All,2021.06.14,45,23137,0
+Palestine,All,2021.06.14,50,20882,0
+Palestine,All,2021.06.14,55,17345,0
+Palestine,All,2021.06.14,60,12902,0
+Palestine,All,2021.06.14,65,9155,0
+Palestine,All,2021.06.14,70,6539,0
+Palestine,All,2021.06.14,75,4667,0
+Palestine,All,2021.06.14,80,3005,0
+Palestine,All,2021.06.14,85,1517,0
+Palestine,All,2021.06.14,90,572,0
+Palestine,All,2021.06.14,95,168,0
+Palestine,All,2021.06.14,100,41,0
+Panama,All,2020.07.04,0,434,1
+Panama,All,2020.07.04,5,747,2
+Panama,All,2020.07.04,10,1243,3
+Panama,All,2020.07.04,15,2020,4
+Panama,All,2020.07.04,20,3091,6
+Panama,All,2020.07.04,25,4041,9
+Panama,All,2020.07.04,30,4620,12
+Panama,All,2020.07.04,35,4479,17
+Panama,All,2020.07.04,40,3926,22
+Panama,All,2020.07.04,45,3239,31
+Panama,All,2020.07.04,50,2546,41
+Panama,All,2020.07.04,55,1992,54
+Panama,All,2020.07.04,60,1509,69
+Panama,All,2020.07.04,65,1083,80
+Panama,All,2020.07.04,70,746,84
+Panama,All,2020.07.04,75,505,80
+Panama,All,2020.07.04,80,332,69
+Panama,All,2020.07.04,85,213,55
+Panama,All,2020.07.04,90,126,40
+Panama,All,2020.07.04,95,61,23
+Panama,All,2020.07.04,100,21,9
+Papua New Guinea,All,2021.01.17,0,5,0
+Papua New Guinea,All,2021.01.17,5,11,0
+Papua New Guinea,All,2021.01.17,10,20,0
+Papua New Guinea,All,2021.01.17,15,37,0
+Papua New Guinea,All,2021.01.17,20,64,0
+Papua New Guinea,All,2021.01.17,25,84,0
+Papua New Guinea,All,2021.01.17,30,91,0
+Papua New Guinea,All,2021.01.17,35,103,0
+Papua New Guinea,All,2021.01.17,40,112,0
+Papua New Guinea,All,2021.01.17,45,102,0
+Papua New Guinea,All,2021.01.17,50,80,0
+Papua New Guinea,All,2021.01.17,55,47,0
+Papua New Guinea,All,2021.01.17,60,19,0
+Papua New Guinea,All,2021.01.17,65,10,0
+Papua New Guinea,All,2021.01.17,70,5,0
+Papua New Guinea,All,2021.01.17,75,3,0
+Papua New Guinea,All,2021.01.17,80,3,0
+Papua New Guinea,All,2021.01.17,85,1,0
+Papua New Guinea,All,2021.01.17,90,0,0
+Papua New Guinea,All,2021.01.17,95,0,0
+Papua New Guinea,All,2021.01.17,100,0,0
+Paraguay,All,2021.03.06,0,991,2
+Paraguay,All,2021.03.06,5,1577,3
+Paraguay,All,2021.03.06,10,2764,2
+Paraguay,All,2021.03.06,15,7877,1
+Paraguay,All,2021.03.06,20,18631,20
+Paraguay,All,2021.03.06,25,24340,19
+Paraguay,All,2021.03.06,30,23324,40
+Paraguay,All,2021.03.06,35,20520,77
+Paraguay,All,2021.03.06,40,14931,96
+Paraguay,All,2021.03.06,45,11409,126
+Paraguay,All,2021.03.06,50,10617,202
+Paraguay,All,2021.03.06,55,9270,286
+Paraguay,All,2021.03.06,60,7254,412
+Paraguay,All,2021.03.06,65,5089,468
+Paraguay,All,2021.03.06,70,3403,440
+Paraguay,All,2021.03.06,75,2325,425
+Paraguay,All,2021.03.06,80,1491,313
+Paraguay,All,2021.03.06,85,740,228
+Paraguay,All,2021.03.06,90,309,101
+Paraguay,All,2021.03.06,95,83,29
+Paraguay,All,2021.03.06,100,15,4
+Peru,All,2021.06.13,0,23451,451
+Peru,All,2021.06.13,5,21644,182
+Peru,All,2021.06.13,10,35427,205
+Peru,All,2021.06.13,15,72155,334
+Peru,All,2021.06.13,20,147451,731
+Peru,All,2021.06.13,25,215244,1297
+Peru,All,2021.06.13,30,228747,2399
+Peru,All,2021.06.13,35,215404,3834
+Peru,All,2021.06.13,40,198562,6264
+Peru,All,2021.06.13,45,182214,9424
+Peru,All,2021.06.13,50,165269,13587
+Peru,All,2021.06.13,55,140416,18237
+Peru,All,2021.06.13,60,114619,23291
+Peru,All,2021.06.13,65,85405,25346
+Peru,All,2021.06.13,70,61229,24485
+Peru,All,2021.06.13,75,42814,21415
+Peru,All,2021.06.13,80,27748,17473
+Peru,All,2021.06.13,85,15503,12143
+Peru,All,2021.06.13,90,6143,5775
+Peru,All,2021.06.13,95,1483,1569
+Peru,All,2021.06.13,100,329,253
+Philippines,All,2021.06.12,0,23398,194
+Philippines,All,2021.06.12,5,24263,27
+Philippines,All,2021.06.12,10,32994,57
+Philippines,All,2021.06.12,15,50670,107
+Philippines,All,2021.06.12,20,136693,181
+Philippines,All,2021.06.12,25,191839,328
+Philippines,All,2021.06.12,30,169288,431
+Philippines,All,2021.06.12,35,130233,612
+Philippines,All,2021.06.12,40,113182,810
+Philippines,All,2021.06.12,45,94427,1237
+Philippines,All,2021.06.12,50,87617,1810
+Philippines,All,2021.06.12,55,76523,2251
+Philippines,All,2021.06.12,60,62662,3045
+Philippines,All,2021.06.12,65,45252,3272
+Philippines,All,2021.06.12,70,31860,3109
+Philippines,All,2021.06.12,75,17777,2103
+Philippines,All,2021.06.12,80,11219,1584
+Philippines,All,2021.06.12,85,5872,903
+Philippines,All,2021.06.12,90,1982,354
+Philippines,All,2021.06.12,95,483,98
+Philippines,All,2021.06.12,100,110,18
+Portugal,All,2021.06.09,0,0,0
+Portugal,All,2021.06.09,5,0,0
+Portugal,All,2021.06.09,10,0,0
+Portugal,All,2021.06.09,15,0,0
+Portugal,All,2021.06.09,20,0,0
+Portugal,All,2021.06.09,25,0,0
+Portugal,All,2021.06.09,30,0,0
+Portugal,All,2021.06.09,35,0,0
+Portugal,All,2021.06.09,40,0,0
+Portugal,All,2021.06.09,45,0,0
+Portugal,All,2021.06.09,50,0,0
+Portugal,All,2021.06.09,55,0,0
+Portugal,All,2021.06.09,60,0,0
+Portugal,All,2021.06.09,65,0,0
+Portugal,All,2021.06.09,70,0,0
+Portugal,All,2021.06.09,75,0,0
+Portugal,All,2021.06.09,80,0,0
+Portugal,All,2021.06.09,85,0,0
+Portugal,All,2021.06.09,90,0,0
+Portugal,All,2021.06.09,95,0,0
+Portugal,All,2021.06.09,100,0,0
+Romania,All,2021.05.12,0,10797,0
+Romania,All,2021.05.12,5,13301,0
+Romania,All,2021.05.12,10,18998,0
+Romania,All,2021.05.12,15,25432,0
+Romania,All,2021.05.12,20,40841,3
+Romania,All,2021.05.12,25,63067,7
+Romania,All,2021.05.12,30,96720,14
+Romania,All,2021.05.12,35,83059,19
+Romania,All,2021.05.12,40,103156,30
+Romania,All,2021.05.12,45,107171,46
+Romania,All,2021.05.12,50,117641,92
+Romania,All,2021.05.12,55,76450,97
+Romania,All,2021.05.12,60,82257,157
+Romania,All,2021.05.12,65,76808,201
+Romania,All,2021.05.12,70,60663,205
+Romania,All,2021.05.12,75,38850,163
+Romania,All,2021.05.12,80,30886,162
+Romania,All,2021.05.12,85,14524,98
+Romania,All,2021.05.12,90,5011,44
+Romania,All,2021.05.12,95,1009,11
+Romania,All,2021.05.12,100,82,1
+Rwanda,All,2021.05.21,0,252,0
+Rwanda,All,2021.05.21,5,519,0
+Rwanda,All,2021.05.21,10,1083,1
+Rwanda,All,2021.05.21,15,1985,1
+Rwanda,All,2021.05.21,20,3087,4
+Rwanda,All,2021.05.21,25,3600,7
+Rwanda,All,2021.05.21,30,3679,7
+Rwanda,All,2021.05.21,35,3282,10
+Rwanda,All,2021.05.21,40,2533,19
+Rwanda,All,2021.05.21,45,1803,23
+Rwanda,All,2021.05.21,50,1185,21
+Rwanda,All,2021.05.21,55,1159,32
+Rwanda,All,2021.05.21,60,838,40
+Rwanda,All,2021.05.21,65,634,43
+Rwanda,All,2021.05.21,70,391,36
+Rwanda,All,2021.05.21,75,267,34
+Rwanda,All,2021.05.21,80,137,23
+Rwanda,All,2021.05.21,85,129,30
+Rwanda,All,2021.05.21,90,22,6
+Rwanda,All,2021.05.21,95,8,3
+Rwanda,All,2021.05.21,100,0,0
+Scotland,All,2021.01.20,0,2673,1
+Scotland,All,2021.01.20,5,2529,0
+Scotland,All,2021.01.20,10,4869,0
+Scotland,All,2021.01.20,15,11642,0
+Scotland,All,2021.01.20,20,15769,3
+Scotland,All,2021.01.20,25,14364,3
+Scotland,All,2021.01.20,30,13150,5
+Scotland,All,2021.01.20,35,12742,9
+Scotland,All,2021.01.20,40,12331,15
+Scotland,All,2021.01.20,45,13714,30
+Scotland,All,2021.01.20,50,14512,66
+Scotland,All,2021.01.20,55,12530,132
+Scotland,All,2021.01.20,60,8781,234
+Scotland,All,2021.01.20,65,6044,393
+Scotland,All,2021.01.20,70,5249,667
+Scotland,All,2021.01.20,75,4021,764
+Scotland,All,2021.01.20,80,3897,929
+Scotland,All,2021.01.20,85,3590,974
+Scotland,All,2021.01.20,90,2538,761
+Scotland,All,2021.01.20,95,1162,387
+Scotland,All,2021.01.20,100,237,88
+Senegal,All,N/A,0,0,0
+Senegal,All,N/A,5,0,0
+Senegal,All,N/A,10,0,0
+Senegal,All,N/A,15,0,0
+Senegal,All,N/A,20,0,0
+Senegal,All,N/A,25,0,0
+Senegal,All,N/A,30,0,0
+Senegal,All,N/A,35,0,0
+Senegal,All,N/A,40,0,0
+Senegal,All,N/A,45,0,0
+Senegal,All,N/A,50,0,0
+Senegal,All,N/A,55,0,0
+Senegal,All,N/A,60,0,0
+Senegal,All,N/A,65,0,0
+Senegal,All,N/A,70,0,0
+Senegal,All,N/A,75,0,0
+Senegal,All,N/A,80,0,0
+Senegal,All,N/A,85,0,0
+Senegal,All,N/A,90,0,0
+Senegal,All,N/A,95,0,0
+Senegal,All,N/A,100,0,0
+Sierra Leone,All,2020.09.28,0,72,0
+Sierra Leone,All,2020.09.28,5,74,0
+Sierra Leone,All,2020.09.28,10,91,0
+Sierra Leone,All,2020.09.28,15,126,1
+Sierra Leone,All,2020.09.28,20,183,2
+Sierra Leone,All,2020.09.28,25,263,2
+Sierra Leone,All,2020.09.28,30,295,2
+Sierra Leone,All,2020.09.28,35,257,2
+Sierra Leone,All,2020.09.28,40,206,3
+Sierra Leone,All,2020.09.28,45,166,5
+Sierra Leone,All,2020.09.28,50,124,6
+Sierra Leone,All,2020.09.28,55,87,7
+Sierra Leone,All,2020.09.28,60,57,5
+Sierra Leone,All,2020.09.28,65,40,5
+Sierra Leone,All,2020.09.28,70,32,5
+Sierra Leone,All,2020.09.28,75,26,6
+Sierra Leone,All,2020.09.28,80,19,5
+Sierra Leone,All,2020.09.28,85,12,4
+Sierra Leone,All,2020.09.28,90,6,2
+Sierra Leone,All,2020.09.28,95,2,1
+Sierra Leone,All,2020.09.28,100,0,0
+Slovenia,All,2021.06.13,0,2265,0
+Slovenia,All,2021.06.13,5,4058,0
+Slovenia,All,2021.06.13,10,6793,0
+Slovenia,All,2021.06.13,15,10164,0
+Slovenia,All,2021.06.13,20,14793,0
+Slovenia,All,2021.06.13,25,18146,0
+Slovenia,All,2021.06.13,30,21729,2
+Slovenia,All,2021.06.13,35,24272,7
+Slovenia,All,2021.06.13,40,26611,15
+Slovenia,All,2021.06.13,45,25210,21
+Slovenia,All,2021.06.13,50,24196,38
+Slovenia,All,2021.06.13,55,20038,70
+Slovenia,All,2021.06.13,60,15379,140
+Slovenia,All,2021.06.13,65,12098,291
+Slovenia,All,2021.06.13,70,7881,418
+Slovenia,All,2021.06.13,75,7026,655
+Slovenia,All,2021.06.13,80,6417,890
+Slovenia,All,2021.06.13,85,5410,1036
+Slovenia,All,2021.06.13,90,2963,765
+Slovenia,All,2021.06.13,95,922,327
+Slovenia,All,2021.06.13,100,85,40
+Somalia,All,2021.03.17,0,3,0
+Somalia,All,2021.03.17,5,17,0
+Somalia,All,2021.03.17,10,81,0
+Somalia,All,2021.03.17,15,341,0
+Somalia,All,2021.03.17,20,1131,1
+Somalia,All,2021.03.17,25,1872,2
+Somalia,All,2021.03.17,30,1634,0
+Somalia,All,2021.03.17,35,1020,0
+Somalia,All,2021.03.17,40,674,1
+Somalia,All,2021.03.17,45,563,2
+Somalia,All,2021.03.17,50,523,13
+Somalia,All,2021.03.17,55,449,24
+Somalia,All,2021.03.17,60,349,32
+Somalia,All,2021.03.17,65,260,45
+Somalia,All,2021.03.17,70,190,55
+Somalia,All,2021.03.17,75,134,59
+Somalia,All,2021.03.17,80,96,58
+Somalia,All,2021.03.17,85,54,43
+Somalia,All,2021.03.17,90,27,28
+Somalia,All,2021.03.17,95,9,12
+Somalia,All,2021.03.17,100,1,2
+South Africa,All,2021.05.22,0,19783,1
+South Africa,All,2021.05.22,5,24585,2
+South Africa,All,2021.05.22,10,42257,2
+South Africa,All,2021.05.22,15,69670,3
+South Africa,All,2021.05.22,20,99769,10
+South Africa,All,2021.05.22,25,157538,24
+South Africa,All,2021.05.22,30,185965,53
+South Africa,All,2021.05.22,35,191456,85
+South Africa,All,2021.05.22,40,165995,122
+South Africa,All,2021.05.22,45,158401,184
+South Africa,All,2021.05.22,50,145789,258
+South Africa,All,2021.05.22,55,122529,326
+South Africa,All,2021.05.22,60,88425,336
+South Africa,All,2021.05.22,65,59569,306
+South Africa,All,2021.05.22,70,42388,248
+South Africa,All,2021.05.22,75,26575,183
+South Africa,All,2021.05.22,80,19608,153
+South Africa,All,2021.05.22,85,9835,85
+South Africa,All,2021.05.22,90,2182,21
+South Africa,All,2021.05.22,95,228,2
+South Africa,All,2021.05.22,100,14,0
+South Korea,All,2021.06.03,0,2583,0
+South Korea,All,2021.06.03,5,3694,0
+South Korea,All,2021.06.03,10,4246,0
+South Korea,All,2021.06.03,15,5917,0
+South Korea,All,2021.06.03,20,9783,1
+South Korea,All,2021.06.03,25,11582,2
+South Korea,All,2021.06.03,30,9577,2
+South Korea,All,2021.06.03,35,9991,5
+South Korea,All,2021.06.03,40,9802,5
+South Korea,All,2021.06.03,45,11658,9
+South Korea,All,2021.06.03,50,12489,22
+South Korea,All,2021.06.03,55,13689,47
+South Korea,All,2021.06.03,60,12967,92
+South Korea,All,2021.06.03,65,8537,138
+South Korea,All,2021.06.03,70,5667,216
+South Korea,All,2021.06.03,75,4214,340
+South Korea,All,2021.06.03,80,3064,415
+South Korea,All,2021.06.03,85,1721,351
+South Korea,All,2021.06.03,90,724,214
+South Korea,All,2021.06.03,95,234,98
+South Korea,All,2021.06.03,100,8,4
+Spain,All,2021.06.14,0,111336,5
+Spain,All,2021.06.14,5,151044,8
+Spain,All,2021.06.14,10,197699,7
+Spain,All,2021.06.14,15,221782,11
+Spain,All,2021.06.14,20,239386,33
+Spain,All,2021.06.14,25,252693,60
+Spain,All,2021.06.14,30,246967,81
+Spain,All,2021.06.14,35,270515,141
+Spain,All,2021.06.14,40,317949,286
+Spain,All,2021.06.14,45,318111,532
+Spain,All,2021.06.14,50,299945,1037
+Spain,All,2021.06.14,55,260878,1905
+Spain,All,2021.06.14,60,204678,3097
+Spain,All,2021.06.14,65,152569,4668
+Spain,All,2021.06.14,70,130373,7523
+Spain,All,2021.06.14,75,105584,10148
+Spain,All,2021.06.14,80,88931,12688
+Spain,All,2021.06.14,85,87564,16624
+Spain,All,2021.06.14,90,53338,13192
+Spain,All,2021.06.14,95,21024,6773
+Spain,All,2021.06.14,100,3675,1510
+Sudan,All,2020.05.18,0,673,0
+Sudan,All,2020.05.18,5,93,0
+Sudan,All,2020.05.18,10,64,0
+Sudan,All,2020.05.18,15,206,0
+Sudan,All,2020.05.18,20,579,0
+Sudan,All,2020.05.18,25,892,0
+Sudan,All,2020.05.18,30,621,0
+Sudan,All,2020.05.18,35,332,0
+Sudan,All,2020.05.18,40,174,0
+Sudan,All,2020.05.18,45,108,0
+Sudan,All,2020.05.18,50,79,0
+Sudan,All,2020.05.18,55,66,0
+Sudan,All,2020.05.18,60,66,0
+Sudan,All,2020.05.18,65,76,0
+Sudan,All,2020.05.18,70,95,0
+Sudan,All,2020.05.18,75,123,0
+Sudan,All,2020.05.18,80,155,0
+Sudan,All,2020.05.18,85,168,0
+Sudan,All,2020.05.18,90,140,0
+Sudan,All,2020.05.18,95,84,0
+Sudan,All,2020.05.18,100,27,0
+Suriname,All,2020.08.18,0,0,0
+Suriname,All,2020.08.18,5,0,0
+Suriname,All,2020.08.18,10,0,0
+Suriname,All,2020.08.18,15,0,0
+Suriname,All,2020.08.18,20,0,0
+Suriname,All,2020.08.18,25,0,0
+Suriname,All,2020.08.18,30,0,1
+Suriname,All,2020.08.18,35,0,1
+Suriname,All,2020.08.18,40,0,1
+Suriname,All,2020.08.18,45,0,2
+Suriname,All,2020.08.18,50,0,3
+Suriname,All,2020.08.18,55,0,5
+Suriname,All,2020.08.18,60,0,5
+Suriname,All,2020.08.18,65,0,5
+Suriname,All,2020.08.18,70,0,5
+Suriname,All,2020.08.18,75,0,5
+Suriname,All,2020.08.18,80,0,8
+Suriname,All,2020.08.18,85,0,6
+Suriname,All,2020.08.18,90,0,0
+Suriname,All,2020.08.18,95,0,0
+Suriname,All,2020.08.18,100,0,0
+Sweden,All,2021.06.13,0,6977,4
+Sweden,All,2021.06.13,5,22728,4
+Sweden,All,2021.06.13,10,56739,2
+Sweden,All,2021.06.13,15,84842,2
+Sweden,All,2021.06.13,20,87474,7
+Sweden,All,2021.06.13,25,98656,14
+Sweden,All,2021.06.13,30,96608,19
+Sweden,All,2021.06.13,35,95046,27
+Sweden,All,2021.06.13,40,97017,39
+Sweden,All,2021.06.13,45,101710,71
+Sweden,All,2021.06.13,50,96440,138
+Sweden,All,2021.06.13,55,77205,228
+Sweden,All,2021.06.13,60,54171,373
+Sweden,All,2021.06.13,65,33730,640
+Sweden,All,2021.06.13,70,23542,1271
+Sweden,All,2021.06.13,75,16417,1983
+Sweden,All,2021.06.13,80,13157,2753
+Sweden,All,2021.06.13,85,11238,3196
+Sweden,All,2021.06.13,90,7512,2503
+Sweden,All,2021.06.13,95,2968,1104
+Sweden,All,2021.06.13,100,451,186
+Switzerland,All,2021.06.14,0,3893,1
+Switzerland,All,2021.06.14,5,10848,1
+Switzerland,All,2021.06.14,10,25486,0
+Switzerland,All,2021.06.14,15,44193,0
+Switzerland,All,2021.06.14,20,57712,1
+Switzerland,All,2021.06.14,25,62581,1
+Switzerland,All,2021.06.14,30,60822,3
+Switzerland,All,2021.06.14,35,58133,6
+Switzerland,All,2021.06.14,40,55198,11
+Switzerland,All,2021.06.14,45,57910,26
+Switzerland,All,2021.06.14,50,61519,64
+Switzerland,All,2021.06.14,55,53391,136
+Switzerland,All,2021.06.14,60,37688,245
+Switzerland,All,2021.06.14,65,26474,437
+Switzerland,All,2021.06.14,70,21884,819
+Switzerland,All,2021.06.14,75,18118,1265
+Switzerland,All,2021.06.14,80,15518,1709
+Switzerland,All,2021.06.14,85,14373,2224
+Switzerland,All,2021.06.14,90,10154,2122
+Switzerland,All,2021.06.14,95,3877,1087
+Switzerland,All,2021.06.14,100,366,138
+Taiwan,All,2021.05.31,0,121,0
+Taiwan,All,2021.05.31,5,96,0
+Taiwan,All,2021.05.31,10,110,0
+Taiwan,All,2021.05.31,15,192,0
+Taiwan,All,2021.05.31,20,493,0
+Taiwan,All,2021.05.31,25,592,0
+Taiwan,All,2021.05.31,30,617,0
+Taiwan,All,2021.05.31,35,672,0
+Taiwan,All,2021.05.31,40,692,0
+Taiwan,All,2021.05.31,45,656,2
+Taiwan,All,2021.05.31,50,840,0
+Taiwan,All,2021.05.31,55,965,1
+Taiwan,All,2021.05.31,60,1040,1
+Taiwan,All,2021.05.31,65,965,1
+Taiwan,All,2021.05.31,70,520,0
+Taiwan,All,2021.05.31,75,324,0
+Taiwan,All,2021.05.31,80,213,0
+Taiwan,All,2021.05.31,85,129,0
+Taiwan,All,2021.05.31,90,68,0
+Taiwan,All,2021.05.31,95,20,0
+Taiwan,All,2021.05.31,100,4,0
+Thailand,All,2021.03.17,0,105,0
+Thailand,All,2021.03.17,5,130,0
+Thailand,All,2021.03.17,10,183,0
+Thailand,All,2021.03.17,15,399,0
+Thailand,All,2021.03.17,20,2266,0
+Thailand,All,2021.03.17,25,2954,0
+Thailand,All,2021.03.17,30,2620,0
+Thailand,All,2021.03.17,35,2093,0
+Thailand,All,2021.03.17,40,1493,0
+Thailand,All,2021.03.17,45,1196,0
+Thailand,All,2021.03.17,50,983,0
+Thailand,All,2021.03.17,55,687,0
+Thailand,All,2021.03.17,60,447,0
+Thailand,All,2021.03.17,65,278,0
+Thailand,All,2021.03.17,70,167,0
+Thailand,All,2021.03.17,75,76,0
+Thailand,All,2021.03.17,80,40,0
+Thailand,All,2021.03.17,85,7,0
+Thailand,All,2021.03.17,90,4,0
+Thailand,All,2021.03.17,95,1,0
+Thailand,All,2021.03.17,100,0,0
+Togo,All,2021.04.04,0,197,3
+Togo,All,2021.04.04,5,286,0
+Togo,All,2021.04.04,10,410,0
+Togo,All,2021.04.04,15,571,1
+Togo,All,2021.04.04,20,827,1
+Togo,All,2021.04.04,25,1205,2
+Togo,All,2021.04.04,30,1484,3
+Togo,All,2021.04.04,35,1407,7
+Togo,All,2021.04.04,40,1206,9
+Togo,All,2021.04.04,45,1022,9
+Togo,All,2021.04.04,50,817,10
+Togo,All,2021.04.04,55,607,9
+Togo,All,2021.04.04,60,416,10
+Togo,All,2021.04.04,65,273,13
+Togo,All,2021.04.04,70,178,12
+Togo,All,2021.04.04,75,111,9
+Togo,All,2021.04.04,80,64,5
+Togo,All,2021.04.04,85,30,1
+Togo,All,2021.04.04,90,9,0
+Togo,All,2021.04.04,95,1,0
+Togo,All,2021.04.04,100,0,0
+Turkey,All,2020.10.26,0,3570,9
+Turkey,All,2020.10.26,5,6907,4
+Turkey,All,2020.10.26,10,12407,4
+Turkey,All,2020.10.26,15,21075,7
+Turkey,All,2020.10.26,20,30466,11
+Turkey,All,2020.10.26,25,35548,19
+Turkey,All,2020.10.26,30,38548,38
+Turkey,All,2020.10.26,35,38765,77
+Turkey,All,2020.10.26,40,35607,146
+Turkey,All,2020.10.26,45,31226,259
+Turkey,All,2020.10.26,50,26619,424
+Turkey,All,2020.10.26,55,22850,680
+Turkey,All,2020.10.26,60,18695,1011
+Turkey,All,2020.10.26,65,14590,1375
+Turkey,All,2020.10.26,70,10148,1526
+Turkey,All,2020.10.26,75,6998,1499
+Turkey,All,2020.10.26,80,4655,1271
+Turkey,All,2020.10.26,85,2833,926
+Turkey,All,2020.10.26,90,1038,394
+Turkey,All,2020.10.26,95,223,98
+Turkey,All,2020.10.26,100,25,12
+Uganda,All,2020.07.26,0,3,0
+Uganda,All,2020.07.26,5,8,0
+Uganda,All,2020.07.26,10,9,0
+Uganda,All,2020.07.26,15,27,0
+Uganda,All,2020.07.26,20,119,0
+Uganda,All,2020.07.26,25,219,0
+Uganda,All,2020.07.26,30,211,0
+Uganda,All,2020.07.26,35,174,0
+Uganda,All,2020.07.26,40,140,0
+Uganda,All,2020.07.26,45,95,0
+Uganda,All,2020.07.26,50,55,0
+Uganda,All,2020.07.26,55,28,0
+Uganda,All,2020.07.26,60,14,0
+Uganda,All,2020.07.26,65,6,0
+Uganda,All,2020.07.26,70,0,0
+Uganda,All,2020.07.26,75,0,0
+Uganda,All,2020.07.26,80,0,0
+Uganda,All,2020.07.26,85,0,0
+Uganda,All,2020.07.26,90,0,0
+Uganda,All,2020.07.26,95,0,0
+Uganda,All,2020.07.26,100,0,0
+Ukraine,All,2021.05.18,0,10147,3
+Ukraine,All,2021.05.18,5,19160,8
+Ukraine,All,2021.05.18,10,29725,16
+Ukraine,All,2021.05.18,15,38204,27
+Ukraine,All,2021.05.18,20,60478,59
+Ukraine,All,2021.05.18,25,100562,139
+Ukraine,All,2021.05.18,30,150653,304
+Ukraine,All,2021.05.18,35,161447,518
+Ukraine,All,2021.05.18,40,151135,835
+Ukraine,All,2021.05.18,45,140174,1415
+Ukraine,All,2021.05.18,50,131822,2443
+Ukraine,All,2021.05.18,55,156807,4750
+Ukraine,All,2021.05.18,60,167879,6829
+Ukraine,All,2021.05.18,65,180500,7944
+Ukraine,All,2021.05.18,70,155613,6288
+Ukraine,All,2021.05.18,75,143956,5025
+Ukraine,All,2021.05.18,80,193822,6141
+Ukraine,All,2021.05.18,85,92597,2929
+Ukraine,All,2021.05.18,90,61307,2166
+Ukraine,All,2021.05.18,95,12820,552
+Ukraine,All,2021.05.18,100,1278,70
+United Kingdom,All,2021.05.28,0,0,15829
+United Kingdom,All,2021.05.28,5,0,1399
+United Kingdom,All,2021.05.28,10,0,380
+United Kingdom,All,2021.05.28,15,0,286
+United Kingdom,All,2021.05.28,20,0,546
+United Kingdom,All,2021.05.28,25,0,1413
+United Kingdom,All,2021.05.28,30,0,3394
+United Kingdom,All,2021.05.28,35,0,6214
+United Kingdom,All,2021.05.28,40,0,7369
+United Kingdom,All,2021.05.28,45,0,6910
+United Kingdom,All,2021.05.28,50,0,5481
+United Kingdom,All,2021.05.28,55,0,3907
+United Kingdom,All,2021.05.28,60,0,2709
+United Kingdom,All,2021.05.28,65,0,2326
+United Kingdom,All,2021.05.28,70,0,2960
+United Kingdom,All,2021.05.28,75,0,3502
+United Kingdom,All,2021.05.28,80,0,5607
+United Kingdom,All,2021.05.28,85,0,9300
+United Kingdom,All,2021.05.28,90,0,12699
+United Kingdom,All,2021.05.28,95,0,11387
+United Kingdom,All,2021.05.28,100,0,4109
+Uruguay,All,2021.05.18,0,7266,0
+Uruguay,All,2021.05.18,5,10224,0
+Uruguay,All,2021.05.18,10,13954,1
+Uruguay,All,2021.05.18,15,19173,3
+Uruguay,All,2021.05.18,20,23370,6
+Uruguay,All,2021.05.18,25,25001,12
+Uruguay,All,2021.05.18,30,22787,19
+Uruguay,All,2021.05.18,35,20123,22
+Uruguay,All,2021.05.18,40,20577,41
+Uruguay,All,2021.05.18,45,18581,83
+Uruguay,All,2021.05.18,50,14932,134
+Uruguay,All,2021.05.18,55,12741,208
+Uruguay,All,2021.05.18,60,10235,303
+Uruguay,All,2021.05.18,65,7704,405
+Uruguay,All,2021.05.18,70,5807,486
+Uruguay,All,2021.05.18,75,4175,486
+Uruguay,All,2021.05.18,80,3005,445
+Uruguay,All,2021.05.18,85,2252,400
+Uruguay,All,2021.05.18,90,1429,295
+Uruguay,All,2021.05.18,95,664,159
+Uruguay,All,2021.05.18,100,222,61
+USA,All,2021.06.05,0,559241,115
+USA,All,2021.06.05,5,721345,44
+USA,All,2021.06.05,10,1064843,63
+USA,All,2021.06.05,15,1710880,228
+USA,All,2021.06.05,20,2562311,711
+USA,All,2021.06.05,25,3030192,1594
+USA,All,2021.06.05,30,2482282,2568
+USA,All,2021.06.05,35,2169932,4176
+USA,All,2021.06.05,40,2029837,6406
+USA,All,2021.06.05,45,2218440,11206
+USA,All,2021.06.05,50,2147740,18259
+USA,All,2021.06.05,55,2034211,30198
+USA,All,2021.06.05,60,1661719,43791
+USA,All,2021.06.05,65,1260333,58206
+USA,All,2021.06.05,70,949950,72361
+USA,All,2021.06.05,75,675685,79822
+USA,All,2021.06.05,80,487348,81423
+USA,All,2021.06.05,85,293898,64533
+USA,All,2021.06.05,90,346305,94429
+USA,All,2021.06.05,95,49967,16355
+USA,All,2021.06.05,100,393,160
+Venezuela,All,2021.06.05,0,9919,0
+Venezuela,All,2021.06.05,5,9413,0
+Venezuela,All,2021.06.05,10,9495,0
+Venezuela,All,2021.06.05,15,14513,0
+Venezuela,All,2021.06.05,20,24810,0
+Venezuela,All,2021.06.05,25,33952,0
+Venezuela,All,2021.06.05,30,29893,0
+Venezuela,All,2021.06.05,35,22745,0
+Venezuela,All,2021.06.05,40,20007,0
+Venezuela,All,2021.06.05,45,17263,0
+Venezuela,All,2021.06.05,50,14895,0
+Venezuela,All,2021.06.05,55,12230,0
+Venezuela,All,2021.06.05,60,9223,0
+Venezuela,All,2021.06.05,65,5515,0
+Venezuela,All,2021.06.05,70,3118,0
+Venezuela,All,2021.06.05,75,1940,0
+Venezuela,All,2021.06.05,80,1163,0
+Venezuela,All,2021.06.05,85,477,0
+Venezuela,All,2021.06.05,90,113,0
+Venezuela,All,2021.06.05,95,20,0
+Venezuela,All,2021.06.05,100,2,0
+Vietnam,All,2021.05.31,0,196,0
+Vietnam,All,2021.05.31,5,166,0
+Vietnam,All,2021.05.31,10,160,0
+Vietnam,All,2021.05.31,15,317,0
+Vietnam,All,2021.05.31,20,964,1
+Vietnam,All,2021.05.31,25,1292,1
+Vietnam,All,2021.05.31,30,1152,2
+Vietnam,All,2021.05.31,35,911,3
+Vietnam,All,2021.05.31,40,531,0
+Vietnam,All,2021.05.31,45,348,1
+Vietnam,All,2021.05.31,50,306,4
+Vietnam,All,2021.05.31,55,285,5
+Vietnam,All,2021.05.31,60,188,5
+Vietnam,All,2021.05.31,65,137,9
+Vietnam,All,2021.05.31,70,72,4
+Vietnam,All,2021.05.31,75,35,1
+Vietnam,All,2021.05.31,80,28,6
+Vietnam,All,2021.05.31,85,18,3
+Vietnam,All,2021.05.31,90,8,1
+Vietnam,All,2021.05.31,95,1,0
+Vietnam,All,2021.05.31,100,1,0
+Zambia,All,2020.06.21,0,10,0
+Zambia,All,2020.06.21,5,23,0
+Zambia,All,2020.06.21,10,48,0
+Zambia,All,2020.06.21,15,96,0
+Zambia,All,2020.06.21,20,147,0
+Zambia,All,2020.06.21,25,185,0
+Zambia,All,2020.06.21,30,196,0
+Zambia,All,2020.06.21,35,195,0
+Zambia,All,2020.06.21,40,184,0
+Zambia,All,2020.06.21,45,153,0
+Zambia,All,2020.06.21,50,98,0
+Zambia,All,2020.06.21,55,55,0
+Zambia,All,2020.06.21,60,25,0
+Zambia,All,2020.06.21,65,12,0
+Zambia,All,2020.06.21,70,7,0
+Zambia,All,2020.06.21,75,4,0
+Zambia,All,2020.06.21,80,3,0
+Zambia,All,2020.06.21,85,1,0
+Zambia,All,2020.06.21,90,0,0
+Zambia,All,2020.06.21,95,0,0
+Zambia,All,2020.06.21,100,0,0

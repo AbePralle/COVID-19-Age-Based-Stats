@@ -1,6 +1,6 @@
 #================================================================================
 # CVStats.rogue
-# June 16, 2021
+# June 16, 2021 by Abe Pralle
 #================================================================================
 
 $requireRogue "1.8.2"
@@ -19,6 +19,9 @@ catch (error:Error)
 endTry
 
 class CVStats
+  PROPERTIES
+    area_stats = StringTable<<AreaStats>>()
+
   METHODS
     method init( args:String[] )
       local command = CommandLineParser().
@@ -27,6 +30,153 @@ class CVStats
         # option( "--setting=",  &alias="-s" )
       ].parse( System.command_line_arguments )
 
-      trace command
-      # has //options and possibly //args
+      if (command//args.count != 1)
+        local default_filepath = "Data/Output_5.csv"
+        if (File.exists(default_filepath))
+          command//args = @[ default_filepath ]
+        else
+          throw Error( "Expected filepath of Output_5.csv dataset downloaded from https://osf.io/7tnfh/ e.g. 'rogo /path/to/csv'." )
+        endIf
+      endIf
+
+      process( command//args.first )
+
+    method process( filepath:String )
+      local header = ""
+      local area  : String
+      local stats : AreaStats
+      println "Processing..."
+      forEach (line at index in LineReader(File(filepath),StringEncoding.EXTENDED_ASCII))
+        if (index == 3)
+          header = line
+          #trace header
+        elseIf (index > 3)
+          if (not area or not line.begins_with(area))
+            local i = line.locate_nth(',',2)
+            if (i)
+              area = line.leftmost( i.value )
+              stats = AreaStats(area)
+              area_stats[area] = stats
+              println area.to_plain_ascii
+            endIf
+          endIf
+          stats.add( line )
+        endIf
+      endForEach
+
+      File.create_folder( "Data" )
+      write_csv( "Data/COVID-cases-and-deaths-by-age-and-country.csv" )
+      write_csv( "Data/COVID-cases-and-deaths-by-age-and-region.csv", &by_region )
+      write_md( "Data/COVID-cases-and-deaths-by-age-and-country.md" )
+      write_md( "Data/COVID-cases-and-deaths-by-age-and-region.md", &by_region )
+
+    method write_csv( filepath:String, &by_region )
+      println "Writing $" (filepath)
+      local writer = File.print_writer( filepath )
+      writer.println @|Country,Region,Date,Age,Cases,Deaths
+      forEach (stat in area_stats)
+        stat.print_csv( writer, &=by_region )
+      endForEach
+      writer.close
+
+    method write_md( filepath:String, &by_region )
+      println "Writing $" (filepath)
+      local writer = File.print_writer( filepath )
+      writer.println @|Country|Region|Date|Age|Cases|Deaths
+                      |-------|------|----|---|-----|------
+      forEach (stat in area_stats)
+        stat.print_md( writer, &=by_region )
+      endForEach
+      writer.close
 endClass
+
+class AreaStats
+  PROPERTIES
+    area    : String  # "country,region"
+    country : String
+    region  : String
+    date    : String
+    cases   = Dim<<Int32>>(21)
+    deaths  = Dim<<Int32>>(21)
+
+  METHODS
+    method init( area )
+      country = area.before_first(',').to_plain_ascii
+      region  = area.after_first(',').to_plain_ascii
+
+    method add( line:String )
+      # line: Country,Region,Code,Date,Sex,Age,AgeInt,Cases,Deaths,Treatments
+      # i:           1      2    3    4   5   6      7     8      9
+      local i3 = line.locate_nth(',',3).value
+      local i4 = line.locate(',',i3+1).value
+      if (not line.contains_at("b,",i4+1)) return  # only process the (b)oth genders rows
+
+      local i5 = line.locate(',',i4+1).value
+      local i6 = line.locate(',',i5+1).value
+      local i7 = line.locate(',',i6+1).value
+      local i8 = line.locate(',',i7+1).value
+      local i9 = line.locate(',',i8+1).value
+
+      if (not date or not line.contains_at(date,i3+1))
+        date = line.from(i3+1,i4-1)
+      endIf
+
+      local age = 0
+      forEach (i in (i5+1)..(i6-1))
+        age = age*10 + (line[i] - '0')
+      endForEach
+      age /= 5
+
+      if (i8 - i7 > 1)
+        use buffer = StringBuilder.pool
+          forEach (i in (i7+1)..(i8-1))
+            buffer.print line[i]
+          endForEach
+          cases[age] = buffer->Real64->Int32
+        endUse
+      endIf
+
+      if (i9 - i8 > 1)
+        use buffer = StringBuilder.pool
+          forEach (i in (i8+1)..(i9-1))
+            buffer.print line[i]
+          endForEach
+          deaths[age] = buffer->Real64->Int32
+        endUse
+      endIf
+
+    method print_csv( writer:PrintWriter, &by_region )
+      # Country,Region,Date,Age,Cases,Deaths
+      if (not by_region and region != "All") return
+      local date = which{ date:date.split('.').[reverse].join('.') || "N/A" }
+
+      forEach (age in 0..20)
+        writer.print( country ).print(',')
+        writer.print( region ).print(',')
+        writer.print( date ).print(',')
+        writer.print( age*5 ).print(',')
+        writer.print( cases[age] ).print(',')
+        writer.print( deaths[age] ).println
+      endForEach
+
+    method print_md( writer:PrintWriter, &by_region )
+      # Country | Region | Date | Age | Cases | Deaths
+      if (not by_region and region != "All") return
+      local date = which{ date:date.split('.').[reverse].join('.') || "N/A" }
+
+      local first = true
+      forEach (age in 0..20)
+        if (first)
+          writer.print( country ).print('|')
+          writer.print( region ).print('|')
+          writer.print( date ).print('|')
+          first = false
+        else
+          writer.print "||||"
+        endIf
+        writer.print( age*5 ).print('|')
+        writer.print( cases[age] ).print('|')
+        writer.print( deaths[age] ).println
+      endForEach
+endClass
+

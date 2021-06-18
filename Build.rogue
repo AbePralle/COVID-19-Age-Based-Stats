@@ -14,11 +14,9 @@ augment Build
     PROJECT           = "CVStats"
     LAUNCHER_NAME     = "cvstats"
     LAUNCHER_FOLDER   = "/usr/local/bin"
-    ROGUEC_FLAGS      = "--debug"
-    CPP_FLAGS_UNIX    = "-O0"
-                        # /O3 to optimize
-    CPP_FLAGS_WINDOWS = "/Od"
-                        # /Ob2ity /GF /Gy to optimize
+    ROGUEC_FLAGS      = "" #"--debug"
+    CPP_FLAGS_UNIX    = "-O3"
+    CPP_FLAGS_WINDOWS = "/Ob2ity /GF /Gy"
 endAugment
 
 routine exe_filepath->String
@@ -32,10 +30,10 @@ routine launcher_folder->String
   return File.without_trailing_separator( result )
 endRoutine
 
-routine rogo_default
+routine rogo_default( csv_filepath:String )
   rogo_build
   #rogo_install_launcher  # Uncomment to automatically install a /usr/local/bin/cvstats launcher
-  rogo_run
+  rogo_run( csv_filepath )
 endRoutine
 
 routine rogo_build
@@ -63,8 +61,8 @@ routine rogo_build
   endBlock
 endRoutine
 
-routine rogo_run
-  execute File.esc( exe_filepath )
+routine rogo_run( csv_filepath="":String )
+  execute "$ $" (File.esc(exe_filepath),File.esc(csv_filepath))
 endRoutine
 
 routine rogo_install_launcher
@@ -220,7 +218,12 @@ class Build [singleton]
 
   METHODS
     method launch
-      rogo_args.add( forEach in System.command_line_arguments )
+      local args = System.command_line_arguments.cloned
+      if (args.count == 1 and File.exists(args.first))
+        args.insert( "default" )
+      endIf
+
+      rogo_args.add( forEach in args )
       read_defs
       on_launch
       parse_args
